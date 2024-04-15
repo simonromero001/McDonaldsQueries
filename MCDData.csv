@@ -1,0 +1,1001 @@
+is_working,state,city,street,country
+working,NY,"New York","114 Delancey St",USA
+working,NY,"New York","208 Varick St",USA
+working,NY,"New York","724 Broadway",USA
+working,NY,"New York","102 1st Ave",USA
+broken,NY,Brooklyn,"82 Court St",USA
+working,NY,"New York","404 E 14th St",USA
+working,NY,"New York","541 6th Ave",USA
+broken,NY,"New York","39 Union Square W",USA
+working,NJ,"Jersey City","30 Mall Dr W",USA
+broken,NJ,"Jersey City","325 Grove St",USA
+broken,NY,Brooklyn,"395 Flatbush Ave Exten",USA
+working,NY,"New York","686 6th Ave",USA
+broken,NY,"New York","26 E 23rd St",USA
+working,NY,"New York","336 E 23rd St",USA
+broken,NJ,"Jersey City","197 12th St",USA
+broken,NJ,Hoboken,"234 Washington St",USA
+working,NY,"New York","401 Park Ave S",USA
+working,NY,Manhattan,"809/811 6th Ave/28th",USA
+broken,NY,Manhattan,"335 8th Ave",USA
+working,NY,Brooklyn,"267 Broadway",USA
+working,NJ,"Jersey City","428 Grand St",USA
+working,NY,"New York","480 3rd Ave",USA
+working,NY,"New York","429 7th Ave",USA
+working,NY,Brooklyn,"357 Hamilton Ave",USA
+working,NY,"New York","151 West 34th Street",USA
+working,NY,"New York","972 6th Ave",USA
+working,NY,Manhattan,"490 8th Ave",USA
+broken,NY,Brooklyn,"904 Manhattan Ave",USA
+broken,NY,Brooklyn,"840 Atlantic Ave",USA
+working,NY,"New York","556 7th Ave",USA
+working,NY,"New York","18 E 42nd St",USA
+working,NY,Brooklyn,"289 9th St",USA
+working,NJ,"Jersey City","260 Central Ave",USA
+broken,NY,"New York","688 8th Ave Frnt 1",USA
+working,NY,"New York","1528 Broadway",USA
+broken,NY,Brooklyn,"741 Grand St",USA
+working,NJ,"Jersey City","2873 John F Kennedy Blvd",USA
+working,NY,Manhattan,"14 E 47th St",USA
+working,NY,"New York","1188 6th Ave",USA
+working,NY,Brooklyn,"700 Broadway",USA
+working,NY,Brooklyn,"652 Meeker Ave",USA
+broken,NY,"New York","824 3rd Avenue 50th St",USA
+working,NY,Manhattan,"1651 Broadway",USA
+working,NJ,"Jersey City","737 Secaucus Rd",USA
+broken,NY,Brooklyn,"1275 Fulton Steet",USA
+broken,NJ,"Jersey City","390 Martin Luther King Drive",USA
+broken,NY,"New York","946 8th Ave",USA
+working,NY,"New York","966 3rd Ave",USA
+working,NY,Brooklyn,"968 4th Ave",USA
+working,NY,Brooklyn,"1531 Fulton St",USA
+broken,NY,Brooklyn,"57 Empire Blvd",USA
+working,NJ,"Jersey City","891 Cummunipaw Ave",USA
+working,NY,"New York","1286 1st Ave",USA
+working,NJ,"Union City","3215 Kennedy Blvd",USA
+working,NY,Brooklyn,"428 Knickerbocker Ave",USA
+working,NY,Brooklyn,"180 Parkside Ave",USA
+working,NY,"Long Island City","33-80 Queens Blvd",USA
+working,NY,"New York","2049 Broadway",USA
+working,NY,Brooklyn,"1380 Broadway",USA
+working,NY,Brooklyn,"3525 Fort Hamilton Pky",USA
+working,NY,Brooklyn,"1133 Eastern Parkway",USA
+working,NY,Brooklyn,"1883 Atlantic Avenue",USA
+working,NJ,Bayonne,"157 W 63rd St",USA
+working,NY,"New York","1499 3rd Ave",USA
+broken,NY,Maspeth,"59-60 55th Road",USA
+broken,NY,"Long Island City","3255 31st St",USA
+working,NY,"Long Island City","3146 21st St",USA
+working,NY,Brooklyn,"701 Utica Ave",USA
+working,NY,Brooklyn,"7124 3rd Ave",USA
+working,NY,Astoria,"31-67 Steinway St",USA
+working,NY,Brooklyn,"880 Coney Island Avenue",USA
+working,NY,Brooklyn,"1642 Pitkin Ave",USA
+broken,NY,Woodside,"51-35 Northern Blvd",USA
+working,NY,"New York","1871 2nd Ave",USA
+working,NJ,Secaucus,"400 Park Place",USA
+broken,NY,"New York","2549 Broadway",USA
+working,NY,Brooklyn,"5707-13 Church Ave",USA
+working,NY,Brooklyn,"15 Jamaica Ave",USA
+working,NY,"New York","1872 3rd Ave",USA
+working,NY,Brooklyn,"2154 Nostrand Ave",USA
+broken,NY,"New York","2726 Broadway",USA
+broken,NY,Brooklyn,"430 86th St",USA
+working,NY,"New York","5804 Claredon Rd",USA
+working,NJ,"North Bergen","8101 Tonnelle Ave",USA
+working,NY,Astoria,"22 50 31st St",USA
+working,NY,Brooklyn,"2800 Atlantic Ave",USA
+working,NY,Glendale,"70-02 Cooper Ave",USA
+working,NY,Elmhurst,"80-03 Queens Blvd",USA
+working,NJ,Bayonne,"537 Broadway",USA
+working,NY,"Staten Island","501 Bay St",USA
+working,NY,"Jackson Heights","37-59 82nd St",USA
+working,NY,"New York","2142 3rd Ave",USA
+working,NY,Brooklyn,"1656 Utica Ave",USA
+working,NY,Brooklyn,"6620 Bay Pky",USA
+working,NY,Brooklyn,"3143 Atlantic Ave",USA
+broken,NJ,Edgewater,"River Road",USA
+working,NY,Brooklyn,"819 Pennsylvania Ave",USA
+working,NY,Brooklyn,"7602 Flatlands Ave",USA
+working,NY,Brooklyn,"1467 Rockaway Pky",USA
+working,NY,"New York","148 W 125th Street",USA
+inactive,NY,"New York","354 W 125th St",USA
+working,NJ,Fairview,"289 Bergen Blvd",USA
+broken,NY,"East Elmhurst","88-05 Astoria Blvd",USA
+working,NY,Brooklyn,"1983 86th St",USA
+broken,NY,Corona,"37-19 Junction Blvd",USA
+working,NY,"New York","444 Lenox Ave",USA
+broken,NY,Bronx,"85 Bruckner Blvd",USA
+working,NY,Brooklyn,"2240 Flatbush Ave",USA
+working,NY,Brooklyn,"2413 86th Street",USA
+working,NY,"Ozone Park","75-50 101st Ave-Queens",USA
+inactive,NY,Corona,"40-12 National St",USA
+working,NY,"Forest Hills","98-01 Metropolitan Ave",USA
+broken,NY,"New York","139th & Adam Clayton Powell",USA
+working,NJ,Newark,"148 Ferry St",USA
+working,NY,Woodhaven,"91-01 Jamaica Avenue",USA
+working,NY,"Staten Island","803 Forest Ave",USA
+working,NY,Brooklyn,"2797 Linden Blvd",USA
+working,NY,Brooklyn,"2028 Rockaway Pky",USA
+working,NY,Brooklyn,"2410 Coney Island Ave",USA
+working,NY,"New York","3543-49 Broadway",USA
+working,NJ,Newark,"7944 Penn Station",USA
+working,NY,"Forest Hills","106-15 71st Ave",USA
+working,NY,Bronx,"279 E 149th St",USA
+broken,NY,Bronx,"597-99 Grand Concourse",USA
+working,NY,Bronx,"2870 3rd Ave",USA
+working,NY,Brooklyn,"35-40 Nostrand Ave",USA
+working,NJ,Newark,"561-575 Mccarter Hwy",USA
+working,NY,Bronx,"51-67 161st St",USA
+broken,NY,"New York","3809 Broadway",USA
+working,NJ,Newark,"621-635 Broadway",USA
+working,NY,"New York","839 Westche Ster Avenue",USA
+working,NJ,Newark,"101-115 Clinton Ave",USA
+working,NY,Bronx,"3279 3rd Avenue",USA
+working,NY,Bronx,"875 Garrison Ave",USA
+working,NY,Brooklyn,"606 Neptune Ave",USA
+broken,NY,Brooklyn,"1403 Mermaid Avenue",USA
+working,NY,"Howard Beach","159-40 Cross Bay Blvd",USA
+working,NY,Bronx,"925 Hunts Point Blvd",USA
+working,NY,Bronx,"86 E 167th St",USA
+working,NY,"New York","4040 Broadway",USA
+working,NY,"Staten Island","1815 Forest Ave",USA
+working,NJ,Belleville,"663 Washington Ave",USA
+working,NJ,Newark,"188 Springfield Avenue",USA
+working,NY,"South Richmond Hill","119-05 Liberty Ave",USA
+broken,NY,Flushing,"40-18 Main Street",USA
+working,NY,Flushing,"3001 Stratton St",USA
+working,NJ,Newark,"334 W Market St",USA
+working,NY,Bronx,"101 E 170th St",USA
+working,NJ,"Little Ferry","319 Route 46 East",USA
+working,NY,Jamaica,"138-32 Jamiaca Ave",USA
+working,NJ,Elizabeth,"819-835 North Ave",USA
+working,NJ,"Fort Lee","2152 Lemoine Avenue",USA
+working,NY,"New York","4259 Broadway",USA
+working,NY,Flushing,"72-69 Kissena Blvd",USA
+working,NJ,Newark,"872-934 Frelinghuysen",USA
+working,NY,Bronx,"1600 Boston Rd",USA
+working,NY,Bronx,"1540 Westchester Ave",USA
+working,NJ,Belleville,"173 Franklin Street",USA
+working,NY,Bronx,"1745 University Ave",USA
+broken,NY,"Staten Island","2154 Hylan Blvd",USA
+working,NJ,"Hasbrouck Heights","329 Rte 17 South",USA
+working,NY,Jamaica,"159-01 Jamaica Avenue",USA
+working,NY,Bronx,"1865 Bruckner Blvd",USA
+working,NY,Bronx,"599 E Tremont Ave",USA
+working,NY,"Staten Island","1660 Richmond Ave",USA
+working,NY,Bronx,"2065 Jerome Ave",USA
+working,NY,Bronx,"1101 E Tremont Ave",USA
+working,NJ,Irvington,"783 Springfield Ave",USA
+working,NY,Jamaica,"114-01 Sutphin Blvd",USA
+working,NY,Manhattan,"208 Dyckman St",USA
+working,NY,Bronx,"1982 Westchester Avenue",USA
+working,NJ,"East Orange","375-379 Central",USA
+working,NJ,Elizabeth,"33 Broad St",USA
+working,NJ,Elizabeth,"420-34 Rte 1 N",USA
+working,NY,"New York","608 West 207th Street",USA
+broken,NJ,Newark,"915 18th Ave",USA
+working,NY,Whitestone,"160-11 Willets Point Blvd",USA
+working,NY,Bronx,"36 W Fordham Rd",USA
+working,NJ,Bloomfield,"425 Broad Street Ctr",USA
+working,NY,Jamaica,"181-25 Hillside Avenue",USA
+working,NJ,Hackensack,"193 Essex",USA
+working,NJ,Garfield,"180 Passaic St",USA
+working,NY,Bronx,"2505 Southern Blvd",USA
+working,NY,Bronx,"372 E Fordham Rd",USA
+working,NY,Bronx,"2630 Jerome Ave",USA
+working,NJ,Hillside,"Rt 22 & Long Ave",USA
+working,NJ,Orange,"145-147 Main St",USA
+working,NY,Jamaica,"166-01 Baisley Boulevard",USA
+working,NJ,Passaic,"15-31 Central Ave",USA
+working,NY,Bronx,"2170 White Plains Rd",USA
+working,NY,"New York","16 Westchester Square",USA
+broken,NY,Bayside,"203-11 Northern Blvd",USA
+working,NY,Jamaica,"Jfk Airport Terminal 1",USA
+working,NJ,Hackensack,"343 River St",USA
+broken,NY,Bronx,"1515 Williamsbridge Rd",USA
+working,NY,Bronx,"3660 E Tremont Ave",USA
+working,NJ,Passaic,"90 Dayton Avenue",USA
+working,NY,Bronx,"1826 Eastchester Rd",USA
+working,NY,Jamaica,"Jfk Terminal 4",USA
+broken,NY,Jamaica,"166-05 Rockaway Blvd",USA
+inactive,NJ,Englewood,"41/43 W Palisade Ave",USA
+working,NY,Bronx,"2516 White Plains Rd",USA
+working,NY,Hollis,"204-11 Hillside Ave",USA
+working,NY,Bronx,"300 E 204th St",USA
+working,NY,Bronx,"5765 Broadway",USA
+working,NY,"Rockaway Beach","91-18 Beach Channel Dr",USA
+working,NJ,"Saddle Brook","Rt 46 Saddle Brk Mall",USA
+working,NY,Bronx,"3509 Webster Avenue",USA
+working,NY,"Springfield Gardens","221-12 So Conduit Ave",USA
+working,NY,"Staten Island","3267 Richmond Ave",USA
+working,NY,Bronx,"1212 E Gun Hill Rd",USA
+working,NY,"Queens Village","88-14 Springfield Blvd",USA
+working,NY,"Cambria Heights","216-07 Linden Blvd",USA
+working,NJ,"River Edge","1118 Main St",USA
+working,NJ,Linden,"107 W Edgar Rd",USA
+working,NJ,Bergenfield,"326 S Washington Ave",USA
+working,NJ,"Roselle Park","100-108 Westfield Ave",USA
+working,NY,Bronx,"2010 Bartow Ave",USA
+working,NJ,Roselle,"251 Saint George Ave",USA
+working,NJ,Paterson,"265 Crooks Ave",USA
+working,NJ,Carteret,"835 Roosevelt Ave",USA
+working,NJ,Paramus,"1 Garden State Plaza",USA
+working,NY,"Little Neck","250-01 Northern Blvd",USA
+inactive,NY,Bronx,"4174 White Plains Rd",USA
+working,NY,Rosedale,"244-10 Merrick Blvd",USA
+working,NJ,"Little Falls","405 Us Hwy 46 East",USA
+working,NJ,"West Orange","573 Northfield Ave",USA
+working,NY,"Far Rockaway","2141 Mott Ave",USA
+working,NJ,Paterson,"835 Market St",USA
+working,NY,Bronx,"3550 Conner St",USA
+working,NJ,Union,"2404 Us 22",USA
+working,NJ,Rahway,"2024 Rt 1 S",USA
+working,NY,Lawrence,"365 Rockaway Tpke",USA
+working,NY,"Glen Oaks","256-03 Union Turnpike",USA
+working,NY,Bronx,"724 E 241st St",USA
+working,NJ,"Fair Lawn","3701 Broadway",USA
+working,NY,Yonkers,"155 S Broadway",USA
+working,NY,Yonkers,"1144 Yonkers Ave",USA
+working,NY,"Mount Vernon","470 S Fulton Ave",USA
+working,NJ,Paterson,"485-497 Broadway",USA
+working,NY,Elmont,"1420 Hempstead Turnpike",USA
+working,NY,"Mount Vernon","6 Gramatan Ave",USA
+working,NY,"Valley Stream","10 W Sunrise Hwy",USA
+working,NJ,Paterson,"160 Market St",USA
+working,NJ,Clark,"108 Central Ave",USA
+working,NY,"Franklin Square","575 Franklin Ave",USA
+broken,NJ,"Woodbridge Township","753 St Georges Ave",USA
+broken,NY,"Staten Island","260 Page Avenue",USA
+working,NY,"West Hempstead","856 Hemp Stead Avenue",USA
+working,NY,Yonkers,"336 Tuckahoe Rd",USA
+working,NY,Lynbrook,"121 Merrick Rd",USA
+working,NY,"New Rochelle","270-272 Main St",USA
+broken,NY,"West Hempstead","380 Hempstead Turnpike",USA
+working,NY,"New Rochelle","720-724 North Ave",USA
+working,NJ,Paramus,"828 Rt 17 N",USA
+working,NY,Yonkers,"1200 Nepperhan Ave",USA
+working,NJ,Fairfield,"460 Rt 46 E",USA
+working,NY,Mineola,"60 Jericho Tpke",USA
+working,NJ,Woodbridge,"330 Rt 9 N",USA
+working,NY,Oceanside,"31-35 Atlantic Avenue",USA
+working,NJ,"Perth Amboy","633 New Brunswick Ave",USA
+working,NJ,"Pine Brook","54 Rt 46 W",USA
+working,NY,Hempstead,"340 Peninsula Blvd",USA
+working,NJ,"East Hanover","305 Route 10 East",USA
+working,NY,"Long Beach","665 Long Beach Rd",USA
+working,NY,"Rockville Centre","618 Sunrise Hwy",USA
+working,NJ,Wayne,"741 Hamburg Tpke",USA
+working,NY,"Carle Place","95 Westbury Ave",USA
+working,NY,Baldwin,"1255 Grand Ave",USA
+broken,NJ,Edison,"59 Hwy 27",USA
+working,NY,Mamaroneck,"1205 Old Boston Post Road",USA
+working,NJ,Edison,"1511 Route 1",USA
+working,NY,"Garden City","637 Stewart Ave",USA
+working,NJ,"Union Beach","825 Rt 36",USA
+working,NJ,Northvale,"240 Livingston St",USA
+working,NJ,"Florham Park","176 Columbia Tpke",USA
+working,NY,Yonkers,"2554 Central Park Ave",USA
+working,NJ,"Atlantic Highlands","970 Rt 36",USA
+working,NJ,"Scotch Plains","1967 Route 22",USA
+working,NJ,"Lincoln Park","53 Boonton Tpke",USA
+working,NJ,Plainfield,"1241 South Ave",USA
+working,NY,Uniondale,"1110 Hempstead Tpke",USA
+working,NY,Uniondale,"1050 Front St",USA
+working,NY,Westbury,"35 Old Country Rd",USA
+working,NY,Roosevelt,"265 Nassau Rd",USA
+working,NJ,"New Providence","1771 Springfield Ave",USA
+working,NJ,"Cliffwood Beach","Rt 35 & Amboy",USA
+working,NJ,"South Plainfield","909 Oak Tree Road",USA
+working,NJ,Hazlet,"31-20 Route 35",USA
+working,NY,Freeport,"157 Merrick Rd",USA
+working,NJ,Parsippany,"1155 Rt 46 E",USA
+working,NJ,Middletown,"925 Hwy 35",USA
+working,NY,"Glen Cove","193 Glen St",USA
+working,NJ,Edison,"1075 Route 1 S",USA
+working,NJ,Plainfield,"234 W Front St",USA
+working,NJ,"South Amboy","970 Rt 9",USA
+working,NY,Jericho,"105 Jericho Tpke",USA
+working,NJ,"Old Bridge","1111 Rt 9 N",USA
+working,NY,Merrick,"1813 Merrick Rd",USA
+working,NY,"East Meadow","2361 Hempstead Turnpike",USA
+working,NJ,"South Plainfield","316 Durham Ave",USA
+working,NJ,Edison,"1966 Hwy 27",USA
+working,NJ,Parsippany,"3111 Rt 46 E",USA
+broken,NJ,Boonton,"568 Myrtle Ave",USA
+working,NJ,"Cedar Knolls","35 Morris County Mall",USA
+working,NJ,Aberdeen,"1108 Nj-34",USA
+broken,NY,Hartsdale,"407 N Central Park Ave",USA
+broken,NJ,Piscataway,"1301 Stelton Road",USA
+working,NJ,"Green Brook","10 Us Highway 22",USA
+broken,NJ,Ramsey,"846 Rt 17 N",USA
+working,NY,Hicksville,"280 N Broadway",USA
+working,NY,Wantagh,"1946 Wantagh Ave",USA
+working,NY,"Port Chester","321 Boston Post Rd",USA
+working,NJ,Middlesex,"125 Bound Brook Rd",USA
+broken,NY,Nanuet,"265 Rt 59",USA
+working,NY,Tarrytown,"140 Wildey St",USA
+working,NY,Hicksville,"805 S Broadway",USA
+working,NY,Nyack,"55 Rt 59",USA
+working,NY,"Oyster Bay","245 Pinehollow Rd",USA
+working,NJ,"Tinton Falls","588 Shrewsbury Ave",USA
+working,NY,Levittown,"3839 Hempstead Turnpike",USA
+working,NJ,Butler,"1479 Route 23",USA
+working,NY,"Spring Valley","106 Rt 59",USA
+working,NJ,"East Brunswick","361 South Rt 18",USA
+working,NY,Syosset,"571 Jericho Tpke",USA
+working,NY,Plainview,"818 Old Country Rd",USA
+working,NJ,Mahwah,"150 Rt 17 S",USA
+working,NJ,"East Brunswick","730 Route 18 North",USA
+working,NJ,"Long Branch","229 Broadway St",USA
+working,NJ,Eatontown,"Rt 35 & Main St",USA
+working,NY,Montebello,"Rt 59 & Hermion Rd",USA
+working,NJ,Somerset,"1065 Easton Ave",USA
+working,CT,Greenwich,"268 West Putnam Avenue",USA
+broken,NJ,"New Brunswick","666 Somerset St",USA
+working,NJ,"North Brunswick","Georges & Milltown Rd",USA
+working,NJ,Rockaway,"201 Rt 46",USA
+working,NY,Farmingdale,"655 Fulton St",USA
+broken,NJ,Englishtown,"78 Rt 9",USA
+working,NJ,"West Long Branch","372 Monmouth Rd",USA
+working,NJ,"North Brunswick","979 Route 1 S",USA
+working,NJ,Bridgewater,"680 Promenade Blvd",USA
+working,NY,Ossining,"214 S Highland Ave",USA
+working,NY,Thornwood,"600 Marble Ave",USA
+working,NJ,Ocean,"2000 Rt 35",USA
+working,NY,Huntington,"344 W Jericho Tpke",USA
+working,NY,Melville,"729 Rt 110",USA
+broken,CT,Riverside,"1207 East Putnam Avenue",USA
+working,NY,Sloatsburg,"Ny State Turnpike Mile Post 33 S",USA
+working,NJ,Manville,"60 N Main St",USA
+working,NJ,Somerville,"950 Rte 22 East",USA
+working,NY,Lindenhurst,"221 Sunrise Hwy",USA
+working,NJ,"Asbury Park","1501 Main St",USA
+working,NJ,Englishtown,"16 Wilson Ave",USA
+working,NY,Haverstraw,"254 Rt 9 W",USA
+working,CT,Stamford,"25 Bedford Street",USA
+working,NJ,Neptune,"3542 Rt 66 East",USA
+working,NY,Lindenhurst,"334 E Montauk Hwy",USA
+working,NJ,"Oak Ridge","5734 Berkshire Valley Rd",USA
+working,NJ,"West Milford","43a Marshall Hill Road",USA
+working,NJ,Neptune,"Rt 33 & 35",USA
+working,CT,Stamford,"1103 E Main St",USA
+working,NJ,Succasunna,"249 Rt 10 E",USA
+working,NJ,"Lake Hopatcong","735 S Rt 15 Po Box 395",USA
+working,NJ,"Monmouth Junction","3955 Us Highway 1",USA
+working,NJ,Freehold,"3636 Rt 9",USA
+working,NJ,Ledgewood,"1117 Route 46 West",USA
+working,NY,"North Babylon","1510 Deer Park Ave",USA
+working,CT,Darien,"Rt- 95 (South) Btw Exit 10 &9",USA
+working,NY,"North Babylon","1255 Deer Park Ave",USA
+working,NJ,Hillsborough,"410 South Us Highway 206",USA
+working,NY,"East Northport","1999 Jericho Turnpike",USA
+working,NY,"West Islip","131 Sunrise Hwy",USA
+working,NJ,Branchburg,"944 Rt 202 S",USA
+working,NY,Northport,"834 Fort Salonga Rd",USA
+working,NJ,Flanders,"293 Rt 206",USA
+working,NJ,"Wall Township","1831 Rt 35 S",USA
+working,NY,Commack,"2 Vanderbilt Pkwy",USA
+working,CT,Darien,"Rt-95 East(North) Pass Exit 12",USA
+working,NJ,"Mount Olive","30 International Dr South",USA
+working,NY,Peekskill,"20 Welcher Ave",USA
+working,NY,"Bedford Hills","605 Bedford Rd",USA
+working,NY,"Bay Shore","1484 5th Ave",USA
+working,CT,Norwalk,"726 Connecticut Ave",USA
+broken,NJ,"Monroe Twp","1 Gateway Boulevard",USA
+working,NJ,"White House Station","Rt 22 E & Juniper Dr",USA
+working,NY,Brentwood,"762 Suffolk Ave",USA
+working,NJ,Howell,"3410 Rt 9 South",USA
+working,NJ,Plainsboro,"10 Schalks Crossing Road",USA
+working,NJ,Byram,"Ushy 206 & Lake Lackawanna",USA
+working,NJ,Manasquan,"2428 Rt 35",USA
+working,NY,"Cortlandt Manor","3481 Us Highway 202",USA
+working,NY,Islip,"107 Main St",USA
+working,NY,Smithtown,"923 Jericho Tpke",USA
+working,NJ,Franklin,"Rt 23",USA
+working,CT,Norwalk,"26 Belden Avenue",USA
+working,NJ,"East Windsor","Rt 130 & Dutch Neck Rd",USA
+inactive,NY,"Mohegan Lake","3078 East Main Street",USA
+working,CT,Norwalk,"340 Main Street",USA
+working,NY,"Central Valley","Woodbury Commons",USA
+working,NY,"Central Islip","13 W Suffolk Ave",USA
+working,NJ,Jackson,"260 County Line Road",USA
+working,NY,Monroe,"501 Rt 17m",USA
+working,NY,Hauppauge,"517 Ny Rt 111",USA
+working,CT,Norwalk,"531 Westport Ave",USA
+working,NJ,Hackettstown,"202 Mountain Ave",USA
+working,NY,Islandia,"1850 Veterans Hwy  Wm  2917",USA
+working,NJ,"Point Pleasant","Ocean Ave & Route 35",USA
+working,NJ,"Cream Ridge","534 Monmouth Rd",USA
+working,NJ,"Brick Township","191 Van Zile Road",USA
+working,CT,Westport,"701 Post Road East",USA
+working,NY,"Saint James","614 Middle Country Rd",USA
+working,NJ,Jackson,"1136 E Veterans Highway",USA
+working,NJ,Bricktown,"106 Chambers Bridge Rd",USA
+working,NJ,Newton,"126 Water St",USA
+working,NY,Mahopac,"154 Route 6",USA
+working,NY,"Highland Falls","W Pt & Station Rd",USA
+working,NY,Oakdale,"4498 Sunrise Hwy",USA
+working,NY,Chester,"Rt 17m & 17",USA
+working,NJ,Flemington,"72 Reaville Ave",USA
+broken,NJ,Clinton,"185 Center St",USA
+working,NY,Bohemia,"3850 Veterans Memorial Hwy",USA
+working,NJ,"Toms River","2360 Lakewood Rd",USA
+working,NY,"Lake Ronkonkoma","174 Portion Rd",USA
+working,NJ,Lawrenceville,"2940 Brunswick Pike",USA
+working,NJ,Robbinsville,"855 Marketplace Blvd",USA
+working,NJ,Mercerville,"410 Nj State Hwy 33",USA
+working,NJ,Silverton,"1786 Hooper Ave",USA
+working,CT,Fairfield,"165 Round Hill Rd",USA
+working,CT,Fairfield,"267 Round Hill Rd",USA
+working,NY,Centereach,"1724 Middle Country Rd",USA
+working,CT,Fairfield,"536 Post Rd",USA
+working,NJ,"Lawrence Township","301 Brunswick Circle Extention",USA
+working,NJ,"Toms River","843 Fischer Blvd",USA
+working,NJ,Trenton,"501 Chambers Street",USA
+working,NJ,Trenton,"1885 N Olden Ave",USA
+working,CT,Bridgeport,"1900 Fairfield Ave",USA
+working,NJ,Trenton,"2603 S Broad St",USA
+working,NY,"Port Jefferson Station","5136 Nesconset Hwy",USA
+working,NY,Farmingville,"2301 N Ocean Ave",USA
+working,NJ,"Toms River","916 Rt 37 W",USA
+working,NJ,Trenton,"103-113 Cass St",USA
+working,NY,Medford,"1710 Route 112",USA
+working,NJ,"Toms River","42 Rt 37 W",USA
+working,CT,Bridgeport,"1700 Park Ave",USA
+working,NJ,"Toms River","371 Rt 37 E",USA
+working,NY,"East Patchogue","769 Montauk Hwy",USA
+working,NY,Coram,"313 Middle Country Rd",USA
+working,CT,Bridgeport,"4219 Main St",USA
+working,PA,Morrisville,"321 W Trenton Ave",USA
+working,CT,Danbury,"2 Lake Ave",USA
+working,NY,Middletown,"113 Dolson Ave",USA
+working,NJ,Bordentown,"255 Rt 130",USA
+working,CT,Bridgeport,"250 N Ave",USA
+working,NY,Brewster,"Rt 22 & Town Center Rd",USA
+working,NY,Newburgh,"347 Broadway",USA
+working,NY,Middletown,"481 Rt 211 E",USA
+working,CT,Stratford,"2439 Barnum Ave",USA
+broken,NY,"Miller Place","340 Rt 25a",USA
+working,NJ,Bayville,"417 Atlantic City Blvd",USA
+working,NY,Newburgh,"1403 Rt 300",USA
+working,PA,"New Hope","324 W Bridge St",USA
+working,NY,Fishkill,"Us Route 9 Duchess Mall",USA
+working,NY,Newburgh,"65 N Plank",USA
+working,CT,Danbury,"3 Padanarum Road",USA
+working,NY,Montgomery,"2083 State Hwy Rt 208 S",USA
+working,NJ,Montague,"13 Rt 23 Rd",USA
+working,NJ,Wrightstown,"102 E Main St",USA
+working,CT,Danbury,"Newtown Rd And Rt 6",USA
+working,CT,Stratford,"411 Barnum Ave",USA
+working,CT,Trumbull,"80 Hawley Lane",USA
+working,NY,"Middle Island","1175 Middle Country Road",USA
+working,PA,"Fairless Hills","475 S Oxford Valley Rd",USA
+working,CT,Monroe,"390 Monroe Tpke",USA
+broken,PA,Milford,"Rt 6 & 209",USA
+working,NY,"Rocky Point","463 St Rt 25a Ny",USA
+working,CT,Milford,"439 Bridgeport Avenue",USA
+working,PA,Levittown,"Us Route 13 Haines Rd",USA
+working,NJ,Columbia,"10 Simpson Rd",USA
+working,CT,Brookfield,"Federal Rd & Beverly Dr",USA
+working,PA,Levittown,"6606 New Falls Rd",USA
+working,NJ,"Brown Mills","118 Trenton Rd",USA
+working,NJ,Phillipsburg,"1215 Route 22 West",USA
+working,NJ,"Lanoka Harbor","408 Rt 9 S",USA
+working,NY,Shirley,"971 Montauk Hwy",USA
+working,PA,Penndel,"749 E Lincoln Hwy",USA
+working,NY,Modena,"Ny State Turnpike Mile Post 66 S",USA
+working,NY,"Wappingers Falls","1178 Route 9",USA
+working,PA,Bristol,"3120 Veterans Hwy",USA
+working,NJ,Phillipsburg,"660 Memorial Pky E",USA
+working,PA,"East Stroudsburg","9 Sellerville Dr",USA
+working,PA,Bristol,"75 Bristol Commerce Park",USA
+working,NY,"Wappingers Falls","967 Rt 376",USA
+working,CT,Milford,"1376 Boston Post Rd",USA
+working,NJ,Burlington,"Route 130 North/Jackson St",USA
+working,PA,Easton,"S 3rd St & Riverside Dr",USA
+working,PA,Richboro,"950 2nd Str Pike",USA
+working,NY,"Center Moriches","626 Montauk Hwy",USA
+working,NY,Pinebush,"Rte 52 West",USA
+working,NJ,Burlington,"2102 Mt. Holly Road",USA
+working,PA,Easton,"350 Town Center Boulevard",USA
+working,CT,Milford,"Milford Westbd Rt 95",USA
+working,CT,Milford,"Rt-95 East (North) Btw Exit 40&41",USA
+working,PA,Pipersville,"5857 Easton Road",USA
+working,NJ,"Mount Holly","1864 Burlington-Mount Holly Rd",USA
+working,PA,Trevose,"3560 Horizon Boulevard",USA
+working,NY,Manorville,"560 Cord Route 111",USA
+working,CT,Derby,"44 Division St",USA
+working,CT,Derby,"652 New Haven Ave",USA
+working,PA,Stroudsburg,"330 Main St",USA
+working,PA,Jamison,"2395 York Rd",USA
+working,NJ,"Mount Holly","1660 State Hwy 38",USA
+working,PA,Doylestown,"561 N Main St",USA
+working,PA,Feasterville,"334 E Street Rd",USA
+working,PA,Bensalem,"1930 St Rd",USA
+working,PA,Easton,"2553 Nazareth Rd",USA
+working,CT,Orange,"57 Boston Post Road",USA
+working,NJ,"Edgewater Park","Us 130/Cooper St",USA
+working,NJ,Barnegat,"580 N Main St",USA
+working,CT,"West Haven","513 Sawmill Road",USA
+working,PA,Philadelphia,"501 Franklin Mill Cir",USA
+working,PA,Easton,"3708 Easton Nazareth Hwy",USA
+working,NY,"La Grangeville","Freedom Business Center Rt 55",USA
+working,CT,Southbury,"100 Main St North",USA
+working,PA,Bensalem,"1240 Bristol Pike",USA
+working,CT,Seymour,"Rt 67 & 255 Bank St",USA
+working,CT,"West Haven","1129 Campbell Ave",USA
+working,PA,"Wind Gap","1036 S Broadway",USA
+working,NY,Poughkeepsie,"733 Main St",USA
+working,CT,"New Haven","280 Kimberly Ave",USA
+broken,PA,Philadelphia,"9970 Bustleton Ave",USA
+broken,NY,Hyland,"650 Rte 9 W Bridgeview Plaza",USA
+working,NJ,"Mount Laurel","3049 Route 38",USA
+working,PA,Hatboro,"121 N York Rd",USA
+working,PA,Warrington,"250 Metro Drive",USA
+broken,CT,"New Haven","1094 Whalley Ave",USA
+working,NY,Riverhead,"268 Ny Rte 58",USA
+working,CT,"New Haven","250 Whalley Ave",USA
+working,NJ,Delran,"4057 Route 130",USA
+working,PA,Horsham,"Pa Rte 611 And Pine Ave",USA
+working,PA,Philadelphia,"8901 Franford Ave",USA
+working,NY,Poughkeepsie,"Mid Hudson Center",USA
+working,PA,Bethlehem,"3925 Nazareth Pike",USA
+working,PA,Bethlehem,"2610 Easton Ave",USA
+working,PA,Hawley,"603 Rt 739",USA
+working,CT,"East Haven","687 Main St",USA
+working,PA,Hellertown,"14 S Main St",USA
+working,PA,Abington,"1663 Old York Rd",USA
+working,NJ,Manahawkin,"757 Rt 72 W",USA
+working,CT,"New Haven","308 Ferry St",USA
+working,CT,Hamden,"1260 Dixwell Avenue",USA
+working,PA,Chalfont,"4272 County Line Rd",USA
+working,NY,"New Paltz","261 Main St",USA
+working,PA,Philadelphia,"7613 Castor Avenue",USA
+working,NY,Riverhead,"30 Flanders Rd",USA
+working,NJ,Medford,"601 Stokes Rd",USA
+working,PA,Philadelphia,"7901 Oxford Ave",USA
+working,NY,"Pleasant Valley","1620 Main St",USA
+broken,PA,Philadelphia,"2801 Cottman Ave",USA
+working,PA,Perkasie,"503 Constitution Ave",USA
+working,CT,Branford,"424 W Main St",USA
+working,CT,"New Haven","225 Foxon Blvd",USA
+working,CT,Naugatuck,"718 Rubber Ave",USA
+working,NY,Riverhead,"268 Route 58",USA
+working,PA,Hatfield,"1511 Bethlehem Pike",USA
+working,NY,Ellenville,"47-49 N Main Street",USA
+broken,PA,Dresher,"1650 Limekiln Pike",USA
+working,PA,Bethlehem,"442 Wyandotte St",USA
+working,CT,Naugatuck,"571 New Haven Rd",USA
+working,NJ,Cinnaminson,"100 Rt 130 N",USA
+working,CT,Branford,"Rt- 95 East",USA
+working,CT,Hamden,"2320 Dixwell Avenue",USA
+working,PA,Philadelphia,"6470 Torresdale Avenue",USA
+working,PA,"North Wales","1470 Bethlehem Pike",USA
+working,NJ,Moorestown,"1 W Camden Ave",USA
+working,NJ,Pennsauken,"1021 Route 73",USA
+working,PA,Quakertown,"2 N Westend Blvd",USA
+working,PA,Souderton,"727 Rt 113",USA
+working,NJ,"Mount Laurel","1108 Route 73",USA
+working,PA,"North Wales","1200 Welsh Rd",USA
+working,CT,"North Haven","365 Universal Drive",USA
+working,NY,"Hyde Park","4258 Albany Post Rd",USA
+working,NY,"Dover Plains","3078 Route 22",USA
+broken,PA,Brodheadsville,"Rt 209 & 115",USA
+working,NY,Monticello,"Route 42 N",USA
+working,PA,Philadelphia,"710 Adams Ave",USA
+working,NJ,Marlton,"760 W Route 70",USA
+working,NJ,"Cherry Hill","2428 Kaighns Avenue",USA
+working,PA,Philadelphia,"7911-17 Ogontz Ave",USA
+broken,PA,Allentown,"1321 Union Blvd",USA
+working,PA,Philadelphia,"1801 Torresdale Ave",USA
+working,PA,Lansdale,"2333 Welsh Road",USA
+working,PA,Philadelphia,"2211 Stenton Ave",USA
+working,PA,Philadelphia,"3725 Aramingo Ave",USA
+working,PA,Flourtown,"1890 Bethleham Pike",USA
+working,PA,Philadelphia,"4163 Whitaker Ave",USA
+working,CT,Watertown,"564 Straits Tpke",USA
+working,CT,"North Haven","129 Washington Ave",USA
+working,PA,Lansdale,"1551 S Valley Forge Rd",USA
+working,NJ,"Cherry Hill","24 W Marlton Pike",USA
+broken,PA,Quakertown,"1900 John Fries Highway",USA
+working,NJ,"Cherry Hill","801 Rt 38",USA
+working,CT,Waterbury,"45 Thomaston Ave",USA
+working,PA,Allentown,"1432 S 4th St",USA
+working,PA,"Mt. Pocono","Rt. 940 & Oak Street Shopping Center",USA
+working,CT,"North Branford","280 Branford Road",USA
+working,PA,Philadelphia,"4200 N Broad St",USA
+working,CT,Waterbury,"325 Union St",USA
+broken,PA,Philadelphia,"29 E Chelten Ave",USA
+working,NY,"Hampton Bays","196 W Montauk Hwy.",USA
+working,PA,Philadelphia,"2nd   Lehigh Ave",USA
+working,CT,Waterbury,"530 Reidville Dr",USA
+working,PA,Whitehall,"2137 Mc Arthur Rd",USA
+working,PA,Philadelphia,"3137 N Broad St",USA
+working,PA,Allentown,"3020 Lehigh St",USA
+working,PA,Whitehall,"2998 Macarthur Road",USA
+working,CT,Waterbury,"881 Wolcott St",USA
+working,CT,Waterbury,"184 Chase Ave",USA
+working,NJ,Voorhees,"702-2 Berlin Rd",USA
+broken,PA,Philadelphia,"2101 W Lehigh",USA
+working,PA,Philadelphia,"22 W Girard Ave",USA
+working,NY,Mattituck,"8850 Main Rd Ny 25",USA
+working,PA,Philadelphia,"2109 N Broad St",USA
+working,NJ,Westmont,"566 Cuthbert Blvd",USA
+working,PA,Philadelphia,"3100 W Allegheny Ave",USA
+working,PA,Philadelphia,"8500 Henry Ave",USA
+working,NJ,"Little Egg Harbor","460 Rt 9 S",USA
+working,NJ,Camden,"Haddon Ave & Federal St",USA
+working,PA,"East Norriton","2931 Dekalb Pike",USA
+working,NJ,Berlin,"270 Route 73 North",USA
+broken,PA,Philadelphia,"1201 N Broad St",USA
+working,PA,Emmaus,"1101 Chestnut St",USA
+working,NJ,Camden,"2720 Mount Ephraim Ave",USA
+working,NJ,Magnolia,"700 White Hourse Pike North",USA
+broken,PA,Conshohocken,"209 213 Ridge Pike",USA
+working,PA,Allentown,"721 Cedar Crest Blvd",USA
+working,NJ,Berlin,"230 White Horse Pike",USA
+working,CT,Guilford,"617 Boston Post Rd",USA
+working,PA,"East Norristown","689 W Germantown Pike",USA
+working,PA,Allentown,"3860 Hamilton Blvd",USA
+working,PA,Philadelphia,"1675 S Christopher Columbus Blvd",USA
+broken,NJ,Lindenwold,"517 White Horse Pike",USA
+broken,PA,Philadelphia,"1601 Christopher Columbus Blvd",USA
+working,CT,Wallingford,"608 N Colony",USA
+working,NJ,"Mount Ephraim","259 S Black Horse Pike",USA
+broken,PA,Philadelphia,"5020 City Line Ave",USA
+working,PA,Pennsburg,"502 Pottstown Ave",USA
+working,PA,Philadelphia,"52nd   Jefferson",USA
+working,PA,Norristown,"273/227 W Main",USA
+working,PA,Philadelphia,"120 W Oregon",USA
+broken,PA,"West Conshohocken","114 Moorehead Ave",USA
+working,PA,Philadelphia,"3935 Walnut St",USA
+working,PA,Philadelphia,"5601 Vine St",USA
+working,PA,Philadelphia,"101-1423 S 52nd St",USA
+working,PA,Philadelphia,"24th & Oregon St",USA
+working,PA,Macungie,"6479 Village Ln",USA
+working,CT,Meriden,"533 South Broad St",USA
+working,NJ,Deptford,"1106 Hurffville Road",USA
+working,CT,Plantsville,"894 Meriden Waterbury Turnpike",USA
+working,PA,Walnutport,"473 Main St",USA
+working,PA,"King Of Prussia","151 North Henderson Road",USA
+working,NJ,Blackwood,"1521 Blackwood Clementon Road",USA
+working,PA,Ardmore,"111 Lancaster Pike",USA
+working,PA,Philadelphia,"7500 City Avenue",USA
+working,PA,Audubon,"635 S Trooper Rd",USA
+working,PA,Trexlertown,"6896 Hamilton Blvd",USA
+working,PA,Philadelphia,"5945 Woodland Ave",USA
+working,PA,"Upper Darby","133 S 69th St",USA
+working,CT,Terryville,"321 Main St",USA
+working,CT,Meriden,"412 W Main St",USA
+working,PA,"Bryn Mawr","1257 Lancaster Ave",USA
+working,PA,Collegeville,"222 E Main St",USA
+working,PA,Schnecksville,"5060 State Hwy 873",USA
+working,CT,Madison,"Rt-95 West  South",USA
+working,NJ,Hammonton,"96 S White Horse Pike",USA
+working,NY,Southampton,"307 N Sea Rd",USA
+broken,NY,Kingston,"555 Albany Ave",USA
+working,NJ,Woodbury,"444 N Broad St",USA
+working,PA,Lansdowne,"201 E Baltimore Ave",USA
+working,PA,"Upper Darby","1891 S State Rd",USA
+working,CT,Meriden,"783 East Main Street",USA
+working,NJ,Sicklerville,"582 Berlin Cross Keys Rd",USA
+working,NJ,Turnersville,"5801 Rt 42",USA
+working,PA,Philadelphia,"7700 Island Ave",USA
+working,PA,Limerick,"32 Ridge Pike",USA
+broken,CT,Clinton,"108 W Main St",USA
+working,PA,Havertown,"1232 Westchester Pike",USA
+working,PA,Darby,"101 S Mcdade Blvd",USA
+working,PA,Honesdale,"1187 Texas Palmyra Highway",USA
+working,CT,Bristol,"150 N Main St",USA
+working,NJ,"Woodbury Heights","201 S Evergreen Ave",USA
+working,NJ,Hurffville,"122 Delsea Drive",USA
+working,NY,Kingston,"1232 Ulster Ave",USA
+working,PA,"Drexel Hill","5008 Township Line Rd",USA
+working,CT,Southington,"675 Queen St",USA
+broken,NJ,Turnersville,"3501 Rt 42",USA
+working,PA,Broomall,"2601 W Chester Pike",USA
+working,PA,"Clifton Heights","531 Baltimore Pike",USA
+working,PA,Berwyn,"260 W Swedeford Rd",USA
+working,PA,Hamlin,"Rte 590 Village Center At Hamlin",USA
+working,NJ,Williamstown,"10 S Blackhorse Pike",USA
+working,PA,Royersford,"308 N Lewis Rd",USA
+working,CT,Bristol,"646 Farmington Avenue",USA
+working,PA,Holmes,"2711 Mac Dade Blvd",USA
+working,NJ,"Egg Harbor","Rt 30 & Saint Louis Ave",USA
+working,PA,Gilbertsville,"Rt 73/Philadelphia Ave",USA
+working,PA,Phoenixville,"651 Nut Rd",USA
+inactive,CT,Plainville,"260 New Britian Ave",USA
+working,CT,Middletown,"914 Washington",USA
+working,NJ,Glassboro,"656 Delsea Drive",USA
+working,CT,Torrington,"1858 E Main St",USA
+working,CT,Middletown,"611 S Main",USA
+working,CT,"New Britain","698 W Main Street",USA
+working,PA,Lehighton,"1257 Blakeslee Blvd",USA
+working,PA,Pottstown,"1428 E High St",USA
+working,CT,Berlin,"185 New Britain Rd",USA
+working,PA,Woodlyn,"1253 Mcdade Blvd",USA
+working,CT,Cromwell,"125 Berlin Rd",USA
+working,PA,Eddystone,"1576 Chester Pike",USA
+working,PA,"White Haven","Rt 940 & I 80",USA
+working,CT,"New Britain","40 Martin Luther King Jr Dr",USA
+broken,NJ,Absecon,"551 White Horse Pike",USA
+working,CT,Cromwell,"30 Shunpike Rd",USA
+working,PA,Pottstown,"189 Shoemaker Rd",USA
+broken,PA,Frazer,"84 Lancaster Ave",USA
+working,CT,Farmington,"Farmington Ave.",USA
+working,CT,"Old Saybrook","1061 Boston Post Rd",USA
+broken,PA,Brookhaven,"4206 Edgemont Ave",USA
+working,PA,Lima,"1123 West Baltimore Pike",USA
+working,NJ,"Mays Landing","4478 Black Horse Pike",USA
+broken,NJ,"Mullica Hill","Route 77 And Walnut Lane",USA
+working,CT,"New Britain","635 Hartford Road",USA
+working,NY,Saugerties,"350 Rt 212",USA
+working,NJ,"Egg Harbor Township","6688 Blackhorse Pike",USA
+working,CT,Newington,"2375 Berlin Tpke",USA
+working,PA,Nesquehoning,"180 Market St",USA
+working,NJ,Pleasantville,"1045 Black Horse Pike",USA
+working,NJ,"Mays Landing","6048 Harding Hwy",USA
+working,PA,Douglassville,"1188 W Ben Franklin Hwy",USA
+working,NJ,"Atlantic City","31 Arkansas Ave",USA
+working,PA,Linwood,"2326 Market St",USA
+working,NJ,Malaga,"403 Delsea Dr",USA
+working,CT,"West Simsbury","22 Albany Tpke",USA
+working,NJ,"Atlantic City","600 N Albany Ave",USA
+working,NY,"Malden On Hudson","Mile Post 103 N Ny State Thruway",USA
+working,PA,Boothwyn,"518 Conchester Hwy",USA
+working,CT,Winsted,"15 S Main St Rte 44",USA
+working,NJ,Northfield,"1201 Tilton Rd",USA
+working,CT,"Rocky Hill","1994 Silas Deane Hwy",USA
+working,NJ,Swedesboro,"Center Square Rd & I 295",USA
+working,CT,"North Canaan","18 Main St",USA
+working,PA,Exton,"Rt 100/Swedsford Rd",USA
+broken,PA,Dunmore,"1201 Harry P. O Neill",USA
+broken,CT,Hartford,"507 Flatbush Ave",USA
+working,PA,Carbondale,"160 Brooklyn St",USA
+working,PA,"West Chester","701 E Gay St",USA
+working,PA,Eynon,"525 Scranton Carbondale Hwy",USA
+working,PA,Exton,"106 Eagleview Blvd",USA
+working,CT,"East Hampton","15 E High St",USA
+working,PA,Scranton,"1236 Wyoming Ave",USA
+working,CT,"West Hartford","2534 Albany Avenue",USA
+working,NJ,Vineland,"833 N Main Rd",USA
+working,PA,Scranton,"900 S Washington Ave",USA
+working,PA,"West Chester","927 S High St",USA
+working,PA,Concordville,"Rt 202 & 1",USA
+working,CT,Hartford,"76 Brainard Road",USA
+working,CT,Hartford,"170-176 Washington St",USA
+working,PA,"Dickson City","1511 Scranton Carbondale Hwy",USA
+working,DE,Claymont,"2702 Philadelphia Pike",USA
+working,PA,Scranton,"1739 N Keyser Ave",USA
+working,CT,Hartford,"1303 Albany Ave",USA
+broken,PA,Pittston,"306 Rt 315",USA
+working,CT,Glastonbury,"2915 Main St",USA
+working,NJ,Vineland,"306 N Delsea Dr",USA
+working,NJ,"Somers Point","401 New Rd",USA
+working,PA,Reading,"5370 Perkiomen Ave",USA
+working,PA,"Old Forge","411 S Main St",USA
+working,CT,Bloomfield,"273 Cottage Grove Rd",USA
+working,PA,Downingtown,"227 E Lincoln Hwy",USA
+working,NJ,Woodstown,"Rt 40 & 45",USA
+working,CT,Hartford,"98 Weston St",USA
+working,PA,"Saint Lawrence","2730 Perkiomen Ave",USA
+working,PA,Temple,"5372 Allentown Pike",USA
+working,PA,"Clarks Summit","1127 Northern Blvd",USA
+working,DE,Wilmington,"2507 Concord Pike",USA
+working,NJ,Vineland,"2707 S Delsea Dr",USA
+working,PA,"Mountain Top","Rt 309 & Crestwood Dr",USA
+working,PA,Reading,"430 Elizabeth Ave",USA
+working,DE,Wilmington,"4111 North Market Street",USA
+working,PA,Reading,"1001 N 9th Street",USA
+working,NJ,"Ocean City","900 West Ave",USA
+working,PA,Tamaqua,"Rt 54 & Rt 309",USA
+working,PA,Leesport,"5500 Pottsville Pike",USA
+working,PA,"Wilkes Barre","900 Wilkes Barre Township Blvd",USA
+working,CT,"East Lyme","19 Chesterfield Rd",USA
+working,PA,Thorndale,"3808 E Lincoln Hwy",USA
+working,NY,Catskill,"55 Maple Avenue Rte 9w",USA
+working,PA,Plains,"River St & Rt309",USA
+working,CT,Manchester,"184-188 Spencer St",USA
+broken,PA,"Wilkes Barre","150 East Hampton",USA
+working,CT,Windsor,"350 Bloomfield Ave",USA
+working,PA,Hamburg,"80 Wilderness Drive",USA
+working,NJ,Millville,"1027 N High St",USA
+working,CT,Colchester,"375 S Main St",USA
+working,PA,Wyomissing,"8th & Hill Ave",USA
+broken,CT,"South Windsor","769 John Fitch Blvd",USA
+working,CT,Manchester,"70 W Center Rd",USA
+working,DE,Wilmington,"700 West 4th Street",USA
+broken,PA,Edwardsville,"80 S Wyoming Ave",USA
+working,PA,"Wilkes Barre","746 San Souci Hwy",USA
+working,PA,Luzerne,"500 Union Street Luzerne",USA
+working,CT,Manchester,"1221 Tolland Tpke",USA
+working,NJ,Pennsville,"417 N Broadway",USA
+working,PA,Morgantown,"6176 Morgantown Rd",USA
+working,PA,Coatesville,"1820 E Lincoln Hwy",USA
+working,PA,"Hazle Township","761 Airport Rd",USA
+broken,PA,Wyomissing,"2725 N Meridian Blvd",USA
+working,PA,"Hazle Township","571 Susquehanna Blvd",USA
+working,DE,Wilmington,"101 New Rd",USA
+working,NY,Hudson,"149-57 Fairview Ave Extension",USA
+working,CT,Waterford,"117 Boston Post Rd",USA
+working,NJ,Bridgeton,"1056 N Pearl St",USA
+working,DE,"New Castle","3010 New Castle Ave",USA
+working,CT,Manchester,"144 Deming St",USA
+working,CT,"New London","406 Colman St",USA
+working,CT,"Windsor Locks","New Main Terminal",USA
+working,NY,Hancock,"86 W Main St",USA
+working,CT,"Windsor Locks","195 Turnpike Rd",USA
+working,PA,"Sinking Spring","3710 Penn Ave",USA
+working,MA,"Great Barrington","302 Stockbridge Rd",USA
+working,PA,"Kennett Square","399 Scarlet Rd New Garden Shopping Cntr",USA
+working,DE,Wilmington,"3318 Kirkwood Hwy",USA
+broken,PA,Shavertown,"Rt 309 Franklin Street",USA
+working,NY,Cairo,"Rte 23 & Rte 32",USA
+working,DE,"New Castle","700 N Dupont Highway",USA
+working,CT,Vernon,"89 Talcotville Rd",USA
+working,DE,Stanton,"1790 W Newport",USA
+working,NJ,Bridgeton,"56 E Broad St",USA
+working,NJ,Seaville,"2087 Rt 9",USA
+working,NJ,Salem,"437 E Broadway",USA
+working,MA,Southwick,"214 College Hwy",USA
+working,CT,Groton,"561 Longhill Rd",USA
+working,DE,Wilmington,"4625 Kirkwood Highway",USA
+working,CT,Montville,"538 Norwich New London Tpke",USA
+working,DE,"New Castle","101 South Dupont Highway",USA
+working,PA,Shartlesville,"Motel Drive & Rt 4011",USA
+working,CT,"Gales Ferry","1678 Connecticut 12",USA
+working,CT,Montville,"1951 Norwich New London Turnpike",USA
+working,PA,"Schuylkill Haven","981 E Main St",USA
+working,CT,Norwich,"109 Salem Tpke",USA
+working,PA,Parkesburg,"900 Commons Drive",USA
+broken,DE,Newark,"4160 Ogletown Stanton Road",USA
+working,CT,Rockville,"74 Reservoir Road",USA
+working,CT,Ellington,"135 West Road",USA
+broken,PA,Pottsville,"720 N Claude A Lord Blvd",USA
+working,DE,Bear,"1401 Governers Pl",USA
+working,CT,Norwich,"78 Town St",USA
+working,CT,Enfield,"28 Hazard Ave",USA
+working,NY,"West Coxsackie","12187 State Route 9w",USA
+working,CT,Willimantic,"1464 W Main",USA
+working,CT,Enfield,"97 Elm St",USA
+working,DE,Newark,"374 East Main Street",USA
+working,MA,Lee,"370 West Stockbridge Road",USA
+working,MA,Lee,"240 West Road",USA
+working,CT,Mystic,"6 Coogan Blvd",USA
+working,PA,"New Milford","I 81 & Sr 848",USA
+working,PA,Jennersville,"Rt 796 & Rt 1",USA
+working,PA,Frackville,"960 Schuylkill Mall",USA
+broken,NY,Walton,"205 Delaware St",USA
+working,MA,Blandford,"North St",USA
+working,MA,Lee,"245 Housatonic St",USA
+working,MA,Blandford,"Mass Pike W Travel Plaza",USA
+broken,PA,Tunkhannock,"161 W Tioga St.",USA
+working,CT,Enfield,"34 Enfield St",USA
+working,PA,Womelsdorf,"3400 Conrad Weiser Pky",USA
+working,MA,Agawam,"868 Suffield Street",USA
+working,PA,Gap,"5328 Lincon Hwy",USA
+working,CT,Enfield,"585 Hazard Ave",USA
+working,MA,Westfield,"299 E Main",USA
+working,NY,Delhi,"Ames Plaza / Rt 10",USA
+working,CT,"Mansfield Center","118 Storrs Rd",USA
+working,DE,Newark,"815 South College Avenue",USA
+working,MA,Westfield,"182 N Elm St",USA
+working,PA,"New Holland","828 W Main St",USA
+working,PA,Ephrata,"854 Emain Street",USA
+working,DE,Glasgow,"2351 S College Ave",USA
+working,NY,Valatie,"2939 Us Hwy 9",USA
+working,MA,"West Springfield","429 Memorial Ave",USA
+working,PA,Ephrata,"140 N Reading",USA
+working,NJ,"Cape May Court House","227 N Main St",USA
+working,MA,"West Springfield","352 Riverdale Rd",USA
+working,MA,Springfield,"360 Main St",USA
+working,PA,Berwick,"10 Briar Creek Plaza",USA
+working,MD,Elkton,"226 Belle Hill Rd",USA
+working,MA,Springfield,"2392 Main St",USA
+working,CT,Lisbon,"97 River Rd",USA
+working,MA,Springfield,"782 State St",USA
+working,RI,Westerly,"135 Granite St",USA
+working,PA,Mifflinville,"Route 339 And I 80",USA
+working,CT,"Stafford Springs","89 W Stafford Rd",USA
+working,MA,Springfield,"1402 Allen Street",USA
+working,MD,Elkton,"101 E Pulaski Hwy",USA
+working,MA,Springfield,"1361 Liberty St",USA
+working,PA,Myerstown,"295 W Lincoln",USA
+working,MA,Holyoke,"233 Whiting Farms Road",USA
+working,MA,Chicopee,"777 Meadow St",USA
+working,PA,Montrose,"494 Grow Ave",USA
+working,MA,Springfield,"771 Page Blvd",USA
+working,MA,Holyoke,"2194 N Hampton St",USA
+working,PA,Halstead,"Rt 11 & I 81",USA
+working,MA,Springfield,"809 Boston Rd",USA
+working,MA,Chicopee,"639 Memorial Drive",USA
+working,MA,Pittsfield,"445 W Housatonic St",USA
+working,MA,Chicopee,"350 Burnett Rd",USA
+working,NJ,"Rio Grande","3201 Route 9 South",USA
+working,MA,Holyoke,"285 Maple St",USA
+working,DE,Middletown,"580 Middletown-Warwick Road",USA
+working,MA,Springfield,"1610 Boston Post Rd",USA
+working,PA,Lancaster,"2090 Lincoln Highway East",USA
+working,MA,Chicopee,"1460 Memorial Drive",USA
+working,PA,Lancaster,"1880 Hempstead Rd",USA
+working,NJ,Wildwood,"Rt 47 & Park Blvd",USA
+inactive,CT,Plainfield,"796 Norwich Road",USA
+working,PA,Lititz,"990 Lititz Pike",USA
+working,PA,"Pine Grove","427 Sueberg Road",USA
+working,MD,"North East","2400 Pulaski Hwy",USA
+working,MA,Ludlow,"420 Center St",USA
+working,PA,Lebanon,"757 E Cumberland St",USA
+broken,MA,Pittsfield,"61 Cheshire Road",USA
+working,PA,Lancaster,"1829 Oregon Pike",USA
+working,MA,Easthampton,"121 N Hampton St",USA
+working,PA,Bloomsburg,"945 New Berwick Hwy",USA
+working,MA,Ludlow,"862 East St",USA
+working,PA,Lancaster,"575 N Franklin St",USA
+working,MD,"Rising Sun","10 Rising Sun Town Center",USA
+working,DE,Smyrna,"333 N Dupont Hwy",USA
+working,PA,Lancaster,"210 W King St",USA
+working,PA,Lebanon,"1202 W Maple St",USA
+working,PA,Lancaster,"301 Willow Valley Square",USA
+working,NJ,"North Cape May","3857 Bayshore Rd",USA
+working,PA,Lebanon,"1725 Quentin Rd",USA
+working,PA,Lancaster,"1434 Manheim Pike",USA
+working,PA,Manheim,"711 Lancaster Rd",USA
+working,NY,Glenmont,"376 Feura Bush Rd",USA
+working,PA,Lancaster,"1295 Millersville Pike",USA
+working,PA,Bloomsburg,"100 Lunger Drive  Wm  1794",USA
+working,NY,Oneonta,"Rt 23 & Grand",USA
+working,NY,Sidney,"141 Delaware Ave",USA
+working,NY,Windsor,"30 North Rd",USA
+working,PA,Lancaster,"1755 Columbia Ave",USA
+working,MA,Northampton,"221 King St",USA
+working,CT,Danielson,"554 Providence Rd Rte 6",USA
+working,PA,Shamokin,"Sthy 61",USA
+working,RI,Wyoming,"14 Kingston Road",USA
+working,NY,Oneonta,"379 Chestnut St",USA
+working,PA,Cleona,"493 W Pen Ave",USA
+working,NY,Delmar,"132 Delaware Ave",USA
+working,PA,Jonestown,"Rt 72 & I-81",USA
+working,DE,Dover,"1788n Dupont Highway",USA
+working,DE,Dover,"879 N Dupont Highway",USA
+working,MA,Palmer,"1184 Thorndike St",USA
+working,PA,Elysburg,"1 West Valley Avenue",USA
+working,PA,Lancaster,"311 Centerville Rd",USA
+working,NY,Albany,"31 Holland Ave",USA
+working,NY,Rensselaer,"310 Troy Rd",USA
+working,DE,Dover,"915 South Dupont Highway",USA
+broken,DE,Dover,"1704 East Lebanon Rd",USA
+working,CT,Killingly,"1141 Killingly Cmns",USA
+working,PA,Manheim,"2000 Strickler Road",USA
+broken,DE,Dover,"1424 Forrest Ave",USA
+working,NY,Albany,"391 Central Ave",USA
+working,MA,Hadley,"374 Russell St",USA
+working,NY,Albany,"1602 Western Avenue",USA
+working,NY,Binghamton,"488 490th Court St",USA
+broken,NY,Albany,"1006 Central Ave",USA
+broken,MD,"Havre De Grace","802 Pulaski Highway",USA
+working,MA,Belchertown,"148 N Main St",USA
+working,NY,Albany,"161 Washington Ave Extension",USA
+working,NY,Cobleskill,"702 E Main St",USA
+working,PA,Palmyra,"901 E Main St",USA
+working,PA,Columbia,"1788 Columbia Ave",USA
+broken,NY,Loudonville,"256 Osborne Rd",USA
+working,NY,Wynantskill,"65 Main Ave Rte 66",USA
+working,CT,Putnam,"6 Providence Turnpike Rte 44",USA
+working,NY,Binghamton,"167 Main St",USA
+working,MA,Sturbridge,"366 Main St",USA
+working,NY,Binghamton,"704 Front Street",USA
+working,NY,Albany,"106 Wolf Rd",USA
+working,PA,Danville,"132 Old Valley School Road",USA
+broken,MA,Adams,"2 Commercial St",USA
+broken,NY,"Johnson City","339 Main St",USA
+inactive,NY,Schenectady,"103 Brookview Dr",USA
+working,RI,Wakefield,"149 Old Tower Hill Rd",USA
+broken,NY,Vestal,"3136 Vestal Pky E",USA
+working,NY,"Johnson City","560 Harry L Dr",USA
+working,NY,Troy,"170 Hoosick Street",USA
+working,MD,Aberdeen,"999 Beards Hill Rd",USA
+working,PA,Elizabethtown,"1284 S Market St",USA
+working,NY,Latham,"579 Troy Schenectady Rd",USA
+working,NY,Troy,"780 Hoosick Rd",USA
+working,NY,Endwell,"3333 E Main St",USA

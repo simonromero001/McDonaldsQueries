@@ -1,0 +1,1001 @@
+city,country,McMeal,Bread,Eggs,Utilities,Average_Salary
+Seoul,"South Korea",6.15,2.85,4.04,182.13,2689.62
+Shanghai,China,5.69,2.61,2.22,66,1419.87
+Guangzhou,China,4.98,1.63,1.71,59.65,1211.68
+Mumbai,India,3.68,0.5,0.95,43.57,640.81
+Delhi,India,4.3,0.5,1.02,58.07,586.46
+Dhaka,Bangladesh,4.88,0.67,1.32,37.06,280.73
+Osaka,Japan,5.36,1.47,1.9,128.77,2322.46
+Jakarta,Indonesia,3.57,1.2,1.71,83.88,509.12
+Shenzhen,China,4.98,2.4,2.13,67.63,1572.22
+Kinshasa,Congo,10.08,1.33,4.15,553.99,400
+Bangkok,Thailand,5.76,1.91,2,79.55,629.84
+Karachi,Pakistan,3.8,0.46,1.14,66.56,166.86
+Cairo,Egypt,4.07,0.52,1.29,26.53,200.4
+"Sao Paulo",Brazil,6.71,1.56,2.28,69.27,445.67
+"Mexico City",Mexico,6.7,2.02,1.97,48.85,718.92
+Lagos,Nigeria,6.75,1.37,2.15,28.27,214.64
+Kolkata,India,3.68,0.37,0.92,31.81,532.21
+Beijing,China,5.69,2.17,1.94,55.64,1562.35
+Moscow,Russia,6.4,0.83,1.84,145.92,1452.41
+Tokyo,Japan,5.21,1.59,1.93,171.22,2868.8
+Manila,Philippines,3.59,1.24,1.77,98.89,429.13
+"New York","United States",10,4.11,3.93,180.61,5944.31
+Istanbul,Turkey,4.29,0.5,1.81,68.88,383.04
+"Buenos Aires",Argentina,5,1.29,1.37,48.19,403.51
+Bangalore,India,4.3,0.57,0.98,24.93,969.96
+Lahore,Pakistan,3.58,0.67,1.05,92.43,164.01
+Chennai,India,4.91,0.5,0.85,33.92,552.68
+Chengdu,China,5.05,1.46,2.15,36.49,802.58
+London,"United Kingdom",8.61,1.25,2.93,299.36,4033.84
+Wuhan,China,5.69,1.78,1.73,40.46,963.86
+Hyderabad,India,5.53,0.56,0.89,28.69,531.45
+Tehran,Iran,4.98,0.53,1.3,21.1,294.97
+Paris,France,10.54,2.11,3.67,199.44,2752.34
+Nagoya,Japan,5.21,1.37,1.81,206.04,2444.12
+"Ho Chi Minh City",Vietnam,4.08,1.17,1.52,74.15,487.51
+"Los Angeles","United States",10,3.8,3.84,140.05,5456.15
+Lima,Peru,5.22,1.83,1.81,71.32,489.76
+"Rio de Janeiro",Brazil,6.71,1.53,1.9,93.12,363.15
+Tianjin,China,6.41,1.55,1.25,76.64,875.36
+Zhengzhou,China,4.27,1.71,1.48,52.99,586.03
+Luanda,Angola,10.51,2.58,3.68,30.78,1428.77
+Chicago,"United States",10,3.18,2.98,163.78,4819.49
+Hanoi,Vietnam,5.3,0.92,1.49,74.36,510.15
+Chongqing,China,4.84,1.36,1.88,45.92,747.36
+Ahmedabad,India,3.68,0.54,1.05,39.47,433.96
+Pune,India,4.3,0.49,0.95,25.46,803.85
+Foshan,China,4.98,1.63,1.71,49.82,960.9
+Tongshan,China,4.98,1.78,1.82,40.46,727.43
+Changchun,China,4.73,1.2,1.45,53.62,1263.76
+Nanjing,China,4.63,1.67,1.86,56.41,1146.18
+Bogota,Colombia,4.62,0.99,1.52,67.58,299.87
+"Kuala Lumpur",Malaysia,4.1,0.83,1.74,53.07,1290.67
+Hefei,China,4.98,1.57,1.37,89.91,965.48
+Dongguan,China,4.98,1.82,2.02,42.81,889.72
+Jinan,China,4.27,1.11,1.09,67.77,782.95
+"Hong Kong","Hong Kong",5.52,2.28,3.41,199.78,2994.43
+"Dar es Salaam",Tanzania,6.64,0.58,1.93,92.87,264.32
+Cangzhou,China,4.27,1.57,1.71,38.07,640.6
+Shenyang,China,4.73,1.2,1.45,59.83,836.83
+Santiago,Chile,6.79,1.33,2.88,138.18,638.03
+Xi'an,China,4.98,1.11,1.54,48.49,1001.23
+Nantong,China,4.63,1.67,1.86,48.9,1583.41
+Riyadh,"Saudi Arabia",6.92,0.85,2.74,92.83,2215.89
+Hangzhou,China,5.69,1.93,1.99,38.07,1079.52
+Miami,"United States",10,3.17,3.92,156.11,4195.86
+Luoyang,China,5.34,1.78,1.24,37.01,640.6
+Kunming,China,5.34,2.73,1.71,47.45,949.44
+Baghdad,Iraq,8,0.78,1.64,123.31,520.92
+Madrid,Spain,8.43,1.09,2.45,166.08,2089.54
+Khartoum,Sudan,8,0.76,2.02,41.59,148.57
+Qingdao,China,4.7,1.16,1.37,34.17,977.5
+Wuxi,China,5.55,1.66,1.53,32.39,1020.68
+Dallas,"United States",8,3.19,3,170.42,5459.79
+Giza,Egypt,3.26,0.41,1.16,41.97,171.51
+Allahabad,India,3.68,0.58,0.96,63.46,409.39
+Philadelphia,"United States",8.5,3.57,3.46,166.22,4897.71
+Nairobi,Kenya,5.91,0.52,1.39,28.18,455.52
+Guadalajara,Mexico,6.19,1.89,1.67,43.29,764.19
+Houston,"United States",9,3.02,3.15,173.45,5063.25
+Atlanta,"United States",8.25,2.67,2.86,213.22,4878.17
+Nanchang,China,4.98,1.74,1.82,53.86,598.32
+Suzhou,China,6.55,3.56,3.86,64.83,925.31
+Toronto,Canada,9.63,2.54,2.96,127.96,3249.79
+Singapore,Singapore,5.92,2.03,2.81,145.68,4619.45
+Washington,"United States",9,3.24,3.48,159.71,5907.32
+Abidjan,"Ivory Coast",8.84,0.56,2.03,131.53,131.96
+Fuzhou,China,4.98,1.28,1.59,49.32,781.77
+Surat,India,3.68,0.52,0.9,38.09,331.61
+Alexandria,Egypt,3.66,0.45,1.11,21.56,163.76
+"Belo Horizonte",Brazil,5.75,1.4,1.77,70.83,319.37
+Guilin,China,4.63,1.47,2.26,35.59,465.03
+Boston,"United States",10,3.82,3.49,185,5342.19
+Sydney,Australia,9.5,2.31,3.77,133.25,4683.94
+Barcelona,Spain,9.48,1.5,2.62,170.85,1978.23
+Melbourne,Australia,9.68,2.25,3.65,148.65,4052.92
+Dalian,China,4.98,1.24,1.77,37.98,729.89
+Jiangmen,China,6.05,1.42,1.37,21.35,960.9
+Harbin,China,5.69,1.57,1.79,56.94,661.75
+Johannesburg,"South Africa",4.28,0.91,2.05,106.1,1502.75
+Casablanca,Morocco,6.14,0.47,1.23,37.98,470.72
+Phoenix,"United States",10,3.15,3.55,209.47,5090.45
+Xiamen,China,4.84,1.28,1.57,49.32,891.28
+Amman,Jordan,7.05,0.53,2.02,75.22,635.66
+Taiyuan,China,4.98,2.85,0.85,43.6,569.42
+Yokohama,Japan,5.21,1.36,1.89,181.61,2707.07
+Seattle,"United States",11,4.2,3.53,221.73,6292.34
+Jeddah,"Saudi Arabia",7.45,0.83,2.54,104.88,1689.77
+Berlin,Germany,9.48,1.7,2.99,308.3,3158.05
+Baojishi,China,4.26,1.71,1.86,46.76,555.11
+Algiers,Algeria,4.7,0.16,1.43,48.36,285.56
+Busan,"South Korea",4.99,2.49,2,141.08,1910.04
+Detroit,"United States",8.75,2.94,3.12,280.06,3926.67
+Montreal,Canada,9.63,2.81,2.87,80.09,2823.94
+Lucknow,India,3.07,0.45,1.03,47.83,569.74
+Faisalabad,Pakistan,3.35,0.35,0.82,54.03,188.39
+Zhongshan,China,4.27,1.33,2.39,71.18,774.65
+Jaipur,India,3.68,0.45,0.93,43.91,447.36
+"San Diego","United States",10,3.88,4.24,201.77,5924.47
+Brasilia,Brazil,6.71,1.48,2.06,84.57,620.32
+Mashhad,Iran,4.02,0.61,1.23,32.61,304.12
+Minneapolis,"United States",9,3.16,3.26,143.33,4963.79
+"Addis Ababa",Ethiopia,4,0.53,2.13,168.33,194.78
+"Kuwait City",Kuwait,6.52,0.76,1.79,43.98,1940.76
+Incheon,"South Korea",4.46,2.75,3.42,131.06,2047.33
+"Quezon City",Philippines,2.78,1.28,1.93,201.62,316.53
+Sanaa,Yemen,9,1.2,3.13,47.04,599.5
+Surabaya,Indonesia,3.24,0.97,1.52,73.31,331.5
+Bandung,Indonesia,3.24,0.93,1.5,34.32,291.36
+Tampa,"United States",10,3.48,3.29,168.49,5289.14
+Salvador,Brazil,5.75,1.53,1.73,76.54,227.1
+Rome,Italy,9.48,1.58,3.59,197.83,1579.61
+"Guatemala City",Guatemala,5.73,1.97,2.06,88.2,436.56
+Denver,"United States",9.4,4.02,3.17,158.16,5565.78
+Kyiv,Ukraine,3.62,0.69,1.28,93.68,516.89
+Putian,China,4.84,1.35,1.57,53.18,427.06
+Taichung,Taiwan,4.91,1.79,3.08,58.6,1136.2
+Guayaquil,Ecuador,6.25,1.44,1.86,86.06,607.5
+Kaohsiung,Taiwan,4.91,1.96,2.69,91.44,1247.19
+"La Paz",Bolivia,6.51,1.14,1.57,42.16,499.75
+Taipei,Taiwan,4.91,1.93,3.28,82.34,1876.87
+Antananarivo,Madagascar,6.87,1.12,1.9,44.9,142.04
+Brooklyn,"United States",12,3.7,3.35,132.48,4950.19
+"Santo Domingo","Dominican Republic",7.4,2.15,2.22,86.9,459.84
+Ibadan,Nigeria,6.75,1.18,1.34,23.64,206.38
+Medellin,Colombia,4.83,0.89,1.39,57.56,342.66
+Dubai,"United Arab Emirates",8.17,1.48,3.14,192.01,4322.14
+Tashkent,Uzbekistan,3.5,0.42,1.49,42.75,333.39
+Cali,Colombia,5.24,0.94,1.58,59.83,325.19
+Douala,Cameroon,3.21,0.58,1.74,79.17,188.18
+Daegu,"South Korea",5.38,2.75,3.17,131.06,1868.72
+Fortaleza,Brazil,6.32,1.35,1.44,80.59,239.49
+Ouagadougou,"Burkina Faso",2.09,1.03,1.93,96.39,426.37
+Nagpur,India,3.68,0.46,0.94,17.46,499.46
+Brisbane,Australia,8.83,2.11,3.23,143.1,4082.97
+Ghaziabad,India,4.3,0.46,0.85,56.8,491.27
+Accra,Ghana,4.46,0.64,1.01,26.75,183.6
+Tangerang,Indonesia,3.24,1.11,1.42,91.96,404.96
+Fukuoka,Japan,5.21,1.71,1.8,198.35,1646.81
+Vancouver,Canada,8.89,2.61,3.58,91.93,3474.89
+Bekasi,Indonesia,3.24,1.06,1.71,54.84,452.11
+Depok,Indonesia,3.24,1.07,1.25,56.93,421.32
+Queens,"United States",8,3.13,3.34,88.24,5000
+Baku,Azerbaijan,5.74,0.41,1.31,50.18,405.72
+Havana,Cuba,7,1.18,1.64,37.14,35.75
+Medan,Indonesia,2.59,1.3,1.45,50.23,302.49
+Ningbo,China,5.55,2.73,1.53,32.39,921.23
+Harare,Zimbabwe,6,1,1.81,60.67,272.22
+Rawalpindi,Pakistan,2.68,0.47,0.86,35.16,169.23
+"Phnom Penh",Cambodia,6.53,1.85,1.85,123,303.77
+Mogadishu,Somalia,5.5,0.91,1.98,68.33,406.67
+Baltimore,"United States",9,4.08,3,148.18,5188.03
+Riverside,"United States",8,3.04,3.81,246.39,3266.67
+"Las Vegas","United States",8.25,3.22,3.14,187.27,3817.48
+Vadodara,India,4.3,0.55,0.96,32.32,354.12
+Portland,"United States",8.75,3.36,3.68,206.66,4599.72
+Kumasi,Ghana,4.46,0.85,1.04,14.29,440.44
+Gujranwala,Pakistan,3.35,0.45,0.95,35.38,138.58
+Quito,Ecuador,7,1.7,1.67,41.9,462.19
+Perth,Australia,9.48,1.95,4.06,142.85,4255.91
+Vishakhapatnam,India,4.3,0.47,0.88,24.64,552.68
+Peshawar,Pakistan,3.58,0.45,0.91,49.02,143.69
+Minsk,Belarus,5.15,0.63,1.44,59.37,549.57
+Caracas,Venezuela,10,2.35,2.04,12.37,185.12
+Sapporo,Japan,4.76,1.09,1.49,249.17,1927.62
+Indore,India,3.68,0.44,0.9,27.98,526.07
+Tijuana,Mexico,5.67,1.69,1.53,111.69,807.91
+Esfahan,Iran,3,0.87,1.08,33.01,272.93
+Almaty,Kazakhstan,5.31,0.31,1.34,47.17,504.8
+Thane,India,3.07,0.51,0.9,39.42,521.97
+Vienna,Austria,9.48,2,3.68,216.55,2735.42
+Sacramento,"United States",9.07,4.41,4.04,261.38,4703.11
+Tainan,Taiwan,4.91,1.93,2.89,82.34,1339.77
+Zhuhai,China,5.69,1.61,1.42,42.81,1387.96
+Curitiba,Brazil,5.75,1.24,1.8,64.4,492.89
+Multan,Pakistan,3.35,0.42,0.89,56.04,125.87
+Bucharest,Romania,5.78,1,2.74,118.89,948.86
+Hamburg,Germany,9.48,2.38,3.75,287.14,3164.03
+Orlando,"United States",9,3.25,3.68,165.59,5192.09
+Ecatepec,Mexico,6.19,1.23,1.34,29.22,429.74
+Bhopal,India,3.68,0.39,0.95,22.82,446.24
+Meru,Kenya,4.08,0.41,1.34,16.31,346.51
+Damascus,Syria,4.5,1.17,1.48,18.48,50.24
+Brussels,Belgium,9.48,2.05,3.08,207.8,2798
+Warsaw,Poland,6.31,0.99,2.5,198.99,1286.21
+Lusaka,Zambia,3.17,0.95,1.73,140.69,396.94
+Haikou,China,3.91,1.71,2.73,31.79,1174
+Cleveland,"United States",8.5,2.99,2.94,191.73,4435.33
+"San Jose","United States",9.04,4.25,4.56,200.44,6808.52
+Budapest,Hungary,5.66,1.35,2.78,154.04,974.48
+Pittsburgh,"United States",8.75,2.95,3.31,199.46,4143.72
+Patna,India,3.07,0.47,1.11,31.01,356.17
+Austin,"United States",8.89,2.75,3.59,156.47,5494.29
+Mecca,"Saudi Arabia",7.98,0.71,2.99,110.85,2634.52
+Recife,Brazil,5.94,1.16,1.72,77.53,444.5
+Cincinnati,"United States",7.75,2.45,2.76,128.62,3621.99
+Kampala,Uganda,8.57,1.1,1.63,52.24,162.31
+Conakry,Guinea,11,0.75,2.6,55,800
+Mosul,Iraq,4.22,0.78,1.62,72.98,838.28
+"Hyderabad City",Pakistan,4.02,0.38,1.08,61.09,161.67
+Manhattan,"United States",7.5,2.05,2.17,155.19,5166.67
+Semarang,Indonesia,3.24,0.97,1.29,40.19,269
+Novosibirsk,Russia,6.2,0.69,1.71,107.1,654.1
+Ludhiana,India,4.61,0.46,0.85,56.8,320.86
+Indianapolis,"United States",8,3.11,3.79,225.27,4562.61
+Bilaspur,India,3.99,0.35,0.88,15.76,470.8
+Puebla,Mexico,7.74,1.71,1.74,64.46,532.88
+Kalyan,India,4.18,0.5,0.9,39.42,614.09
+Karaj,Iran,4,0.5,2.12,28.99,308.57
+Madurai,India,3.68,0.51,0.78,33.93,458.52
+Shiraz,Iran,2.9,0.65,2.47,42.47,320.62
+Columbus,"United States",8.75,2.32,2.45,204.48,4403.89
+Tabriz,Iran,12.35,1.69,3.76,49.46,880.01
+"Leon de los Aldama",Mexico,4.49,2.11,1.78,54.34,610.23
+Charlotte,"United States",10,2.99,3.33,149.11,5101.48
+Kobe,Japan,5.21,1.6,1.83,151.77,2533.89
+Maracaibo,Venezuela,8,1.15,1.97,15,100
+Kawasaki,Japan,5.14,1.59,1.93,171.22,2957.78
+Nasik,India,2.95,0.34,0.96,13.51,552.68
+Daejeon,"South Korea",6.15,3.52,2.17,97.78,2131.84
+Belem,Brazil,5.75,1.02,2.11,93.4,507.72
+Munich,Germany,9.48,1.94,3.34,302.81,3467.43
+Yekaterinburg,Russia,5.6,0.66,1.62,120.47,1082.76
+Kyoto,Japan,5.58,1.66,1.94,131.48,1968.01
+Valencia,Venezuela,10,2.35,2.04,12.37,150
+"Virginia Beach","United States",10,3.44,2.62,109.17,4178
+Kharkiv,Ukraine,3.54,0.5,1.12,104.25,399.61
+"Abu Dhabi","United Arab Emirates",8.17,1.28,2.69,148.74,3541.4
+Zapopan,Mexico,5.16,2.12,1.88,50.71,941.13
+Muscat,Oman,6.49,1.14,2.75,89.02,1907.43
+Bronx,"United States",10.5,3.52,4.25,132.51,2000
+Faridabad,India,3.68,0.53,1.02,67.18,491.27
+Ulaanbaatar,Mongolia,4.4,0.55,1.68,63.85,315.53
+Goiania,Brazil,6.69,1.36,1.82,100.34,318.75
+Khulna,Bangladesh,4.88,0.37,0.98,19.51,305.64
+Aurangabad,India,4.18,0.47,0.88,26.44,445.21
+Milwaukee,"United States",8.5,2.55,2.75,200.67,5043.75
+Belgrade,Serbia,7.18,0.65,2.36,152.57,669.56
+Rajkot,India,3.68,0.4,1.09,42.99,429.86
+Milan,Italy,10.22,2.4,3.65,216.3,1897.64
+Cordoba,Argentina,5.74,0.85,1.43,57.63,522.22
+Auckland,"New Zealand",9.62,2.19,4.95,149.77,3978.79
+Makassar,Indonesia,3.24,1,1.47,51.2,231.19
+Prague,"Czech Republic",7.35,1.39,2.34,267.29,1686.36
+Meerut,India,3.99,0.45,0.91,62.11,491.27
+Montevideo,Uruguay,10.23,2.38,3.29,138.75,876.34
+Guarulhos,Brazil,5.36,1.44,1.97,33.53,306.55
+"Al Basrah",Iraq,6.44,0.73,1.96,69.13,684.8
+Saitama,Japan,4.47,1.68,1.53,161.35,1451.81
+Adelaide,Australia,8.65,1.9,3.4,210.07,4144.98
+Juarez,Mexico,5.41,1.71,1.74,54.75,421.15
+Barranquilla,Colombia,5.24,0.79,1.49,77.14,296.72
+Jabalpur,India,3.07,0.41,0.88,29.48,388.92
+Sofia,Bulgaria,6.41,1.02,2.58,134.2,1005.95
+Sharjah,"United Arab Emirates",6.81,1.11,2.24,165.33,1681.97
+Kazan,Russia,5.84,0.77,1.69,102.68,645
+Abuja,Nigeria,5.63,1.45,1.99,31.52,235.83
+"Nizhniy Novgorod",Russia,5.6,0.6,1.62,149.08,684.31
+Calgary,Canada,8.89,2.18,2.9,189.53,3807.94
+Suwon,"South Korea",4.42,3.26,2.46,135.07,2291.89
+Chelyabinsk,Russia,4.8,0.76,1.35,140.58,483
+Mandalay,Myanmar,5.41,1.82,1.35,33.75,901.12
+Varanasi,India,3.07,0.4,1.03,18.42,552.68
+Providence,"United States",9.75,3.19,3.13,174.48,4266.67
+Mombasa,Kenya,5.3,0.54,2.07,27.18,244.6
+Maputo,Mozambique,4.31,1.18,1.9,77.9,261.03
+"Vila Velha",Brazil,5.75,1.05,1.38,50.11,344.87
+Rosario,Argentina,5,0.97,0.98,34.3,366.67
+Doha,Qatar,6.87,1.64,2.77,121.51,3342.4
+Medina,"Saudi Arabia",7.45,0.71,3.54,148.94,1463.2
+Jacksonville,"United States",9,3.3,3.51,139.05,4580.33
+Omsk,Russia,6.4,0.62,1.64,126.82,547.85
+Samara,Russia,6.4,0.69,1.54,106.24,642.46
+Campinas,Brazil,6.51,1.43,2,69.31,600.84
+Dakar,Senegal,8.03,0.56,2.06,103.26,441.77
+Kigali,Rwanda,7.51,0.97,1.4,49.76,414.52
+Amritsar,India,2.46,0.48,1.03,45.03,233.35
+Birmingham,"United Kingdom",7.38,1.2,2.34,219.9,2976.96
+Monterrey,Mexico,6.7,2.01,2.11,99.66,973.79
+Tripoli,Libya,4.12,0.36,1.46,18.26,298.35
+Tegucigalpa,Honduras,6,1.55,1.81,72.91,516.15
+Guwahati,India,5.22,0.4,1.02,29.08,491.27
+Ufa,Russia,5.6,0.75,1.6,122.75,630.27
+Tbilisi,Georgia,7.39,0.61,2.39,74.47,477.11
+Fes,Morocco,4.01,0.39,1.27,26.48,245.56
+"Bien Hoa",Vietnam,4.08,0.82,1.52,32.64,407.96
+Copenhagen,Denmark,12.05,2.87,4.35,203.32,3670.25
+Bhilai,India,3.68,0.57,1.05,25.79,179.31
+Krasnoyarsk,Russia,4.82,0.77,1.68,99.44,736
+"Salt Lake City","United States",8.5,3.32,3.17,117.1,4396.98
+Cologne,Germany,9.48,1.94,2.73,279.73,2480.27
+Yerevan,Armenia,6.32,0.66,2.33,94.01,526.47
+Nashville,"United States",8.59,3.91,3.38,190.35,4812.25
+Richmond,"United States",9.5,2.52,2.2,153.72,5760.89
+Ranchi,India,6.14,0.42,1.06,21.53,294.76
+Memphis,"United States",8,2.33,2.97,184.3,4647.22
+"Sao Goncalo",Brazil,5.08,1.28,1.77,82.24,349.66
+Edmonton,Canada,8.89,2.22,2.69,189.4,3403.02
+Bishkek,Kyrgyzstan,3.85,0.37,1.53,34.36,267.61
+Nur-Sultan,Kazakhstan,4.25,0.36,1.44,45.61,564.52
+Nouakchott,Mauritania,6.95,0.42,2.39,101.31,517.4
+Sendai,Japan,4.91,2.36,1.79,136.5,2771.26
+Tunis,Tunisia,4.65,0.16,1.09,51.92,258.3
+"San Pedro Sula",Honduras,5.97,1.57,2.4,105.78,592.57
+Kathmandu,Nepal,7.69,0.5,1.56,26.28,201.45
+Perm,Russia,6.4,0.66,1.67,97.34,651.11
+Voronezh,Russia,6.19,0.74,1.56,116.99,666.28
+Mexicali,Mexico,5.16,1.96,2.04,73.44,586.6
+Raleigh,"United States",8,3.43,3.22,188.64,4947.71
+Cartagena,Colombia,4.51,0.88,1.79,94.26,331.84
+Chandigarh,India,3.38,0.47,1.08,71.05,634.56
+Jodhpur,India,3.68,0.45,0.84,43.91,307.04
+Managua,Nicaragua,5.5,1.46,1.92,68.97,358.51
+Bogor,Indonesia,2.92,0.91,1.62,66.44,364.61
+Odesa,Ukraine,4.08,0.57,1.31,86.07,337.09
+Shymkent,Kazakhstan,6.38,0.3,1.32,77.87,325.31
+Niamey,Niger,9.64,0.54,2.22,374.83,211.51
+Mysore,India,4.34,0.4,0.74,19.35,736.91
+Monrovia,Liberia,10,1.43,5.33,216.1,2592
+Islamabad,Pakistan,3.58,0.46,1.02,82.57,218.01
+Louisville,"United States",8,2.78,2.54,194.69,4226.39
+"New Orleans","United States",8,3.93,3.27,195.88,3405.25
+Raipur,India,4.3,0.45,0.91,30.7,532.21
+Volgograd,Russia,5.15,0.7,1.58,125.45,488
+Quetta,Pakistan,2.68,0.34,1.17,71.93,147.52
+Ottawa,Canada,8.89,2.18,2.91,119.98,3319.71
+Arequipa,Peru,4.57,1.52,1.72,37.96,379.47
+"Port Harcourt",Nigeria,3.38,1.18,1.62,16.13,172.61
+Stockholm,Sweden,8.72,2.79,3.74,102.95,3021.18
+Jerusalem,Israel,15.27,2.16,3.87,154.97,2811.67
+Vientiane,Laos,5,1.93,2.08,95,312.04
+Kota,India,2.09,0.44,0.9,27.98,368.45
+Zagreb,Croatia,6.98,1.13,2.64,201.27,1140.62
+Colombo,"Sri Lanka",3.25,0.64,1.77,23.56,156.15
+Lilongwe,Malawi,4.87,0.53,1.58,53.55,292.11
+Dushanbe,Tajikistan,4.96,0.41,1.56,31.26,163.81
+Pretoria,"South Africa",4.56,0.84,1.7,95.97,1382.39
+Amsterdam,Netherlands,10.54,1.65,3.75,281.94,3655.44
+Freetown,"Sierra Leone",7.9,0.68,1.83,130.42,1544.66
+Winnipeg,Canada,8.22,1.94,2.78,145.32,2145.63
+Lome,Togo,8.03,0.72,1.68,113.79,535.47
+Libreville,Gabon,11.65,1.51,2.89,107.09,461.85
+Helsinki,Finland,9.72,2.35,2.51,108.82,2874.65
+"Panama City",Panama,6.5,2.17,2.13,98.85,804.44
+Athens,Greece,7.38,1.15,3.87,265.12,960.36
+Oslo,Norway,12.33,3.54,4.14,244.58,3645.72
+Skopje,"North Macedonia",4.24,0.79,2.03,134.82,480.82
+Chisinau,Moldova,4.87,0.41,1.88,145.96,448.7
+"Quebec City",Canada,9.63,2.43,2.65,96.59,3012.07
+Bujumbura,Burundi,3.28,0.68,2.68,18.43,312.97
+Rabat,Morocco,5.01,0.43,1.31,37.51,427.64
+Riga,Latvia,7.38,1.17,2.49,304.7,1091.09
+Kingston,Jamaica,6.5,2.73,2.9,133.62,584.66
+Vilnius,Lithuania,6.32,1.38,2.32,205.18,1276.18
+Dublin,Ireland,10.01,1.87,3.27,234.35,3177.2
+Tallinn,Estonia,7.38,1.13,2.36,305.91,1423.7
+Asuncion,Paraguay,4.85,0.72,1.78,53.69,354.73
+Lisbon,Portugal,7.38,1.33,2.67,130.77,1125.31
+Beirut,Lebanon,6.1,1.51,1.88,278.36,370.25
+Djibouti,Djibouti,8.99,2.25,3.48,321.92,519.66
+Tirana,Albania,5.86,0.77,2.7,92.68,463.59
+Kitchener,Canada,8.89,2.34,2.91,152.05,3369.02
+Bratislava,Slovakia,7.38,1.3,2.68,219.17,1279.31
+Halifax,Canada,8.89,2.26,3.41,140.5,3072.15
+Canberra,Australia,8.94,1.97,3.66,147.67,4432.43
+Wellington,"New Zealand",9.3,2,4.23,138.14,3549.49
+Victoria,Canada,8.89,2.68,3.61,97.44,3521.25
+Windhoek,Namibia,5,0.72,1.82,92.44,564.61
+Nicosia,Cyprus,6.32,2,3.11,164.68,1449.65
+Dodoma,Tanzania,10.72,1.29,2.4,59.86,317.19
+Nassau,Bahamas,8,5.01,4.97,261.63,1817.33
+Ljubljana,Slovenia,6.53,1.64,2.73,253.55,1392.17
+Bloemfontein,"South Africa",3.56,0.9,2.26,62.73,1273.6
+Sarajevo,"Bosnia And Herzegovina",5.11,0.71,2.02,157.04,755.85
+"Cape Town","South Africa",3.99,0.96,1.81,75.45,1254.87
+Sucre,Bolivia,7.95,1.08,0.87,21.69,180.78
+Male,Maldives,9,1.6,1.53,159.57,800.51
+Paramaribo,Suriname,6.15,1.19,2.11,92.78,234.55
+Gaborone,Botswana,6,0.74,2.12,46.85,724.69
+Gibraltar,Gibraltar,8.61,1.83,2.75,108.5,3385.92
+"Port Moresby","Papua New Guinea",8.53,1.53,3.89,107.05,401.85
+Georgetown,Guyana,7.16,1.48,2.84,80.1,410.92
+Podgorica,Montenegro,4.21,0.76,2.38,112.63,644.09
+Fort-de-France,Martinique,10.41,2.55,3.85,101.86,2094.32
+Manama,Bahrain,6.63,1.36,2.42,169.42,2080.33
+Willemstad,Curacao,10.26,2,3.11,192,914.93
+Bern,Switzerland,16.03,3.01,6.08,204.87,6090.17
+Saint-Denis,Reunion,10.54,2.63,3.71,108.71,1159.12
+Malabo,"Equatorial Guinea",20.08,3.2,1.93,46.59,321.28
+Papeete,"French Polynesia",11.44,2.28,4.71,191.33,1427.58
+Luxembourg,Luxembourg,10.54,3.29,3.7,301.9,4272.11
+Bridgetown,Barbados,8.5,2.71,4.61,100,1333.33
+Reykjavik,Iceland,14.17,3.24,5.52,101.82,3342.89
+Suva,Fiji,6.38,0.48,2.67,47.86,1597.77
+Noumea,"New Caledonia",10.6,1.96,5.55,211.78,2501.94
+Ankara,Turkey,3.89,0.45,1.68,51,371.38
+Praia,"Cape Verde",5.71,1.19,2.21,57.06,317.3
+"Sri Jayewardenepura Kotte","Sri Lanka",4.34,0.41,1.15,40.68,81.36
+Monaco,Monaco,9.48,3.95,3.13,184.18,5589.37
+Thimphu,Bhutan,3.08,0.67,2.1,34.04,366.55
+Mbabane,Swaziland,2.34,0.59,1.26,92.19,779.37
+Hamilton,Bermuda,15,6.85,5.16,271.65,5973.81
+"Bandar Seri Begawan",Brunei,5.03,1.65,2.15,55.74,1748.71
+Douglas,"Isle Of Man",8.35,1.34,2.91,135.51,4608.5
+Oranjestad,Aruba,8.5,2.54,3.6,190.43,1509.46
+"Port of Spain","Trinidad And Tobago",7.37,2.19,3.54,83.58,768.72
+"Saint Helier",Jersey,8.61,2.08,4.57,224.76,2893.88
+Banjul,Gambia,5.24,0.27,1.97,41.94,75.27
+Nuuk,Greenland,15.96,3.12,3.47,212.63,4252.54
+Ashgabat,Turkmenistan,10,0.9,5.14,1066.67,561.9
+Majuro,"Marshall Islands",12,2.8,2.64,533.33,1050
+Kingstown,"Saint Vincent And The Grenadines",10.18,1.77,3.32,54.27,555.03
+Victoria,Seychelles,6.4,1.43,2.85,67.51,597.42
+Valletta,Malta,9.48,1.64,2.74,158.99,1184.8
+"Andorra la Vella",Andorra,8.43,1.05,2.53,76.19,2509.67
+Roseau,Dominica,5.55,2.13,4.44,46.25,487.69
+Vaduz,Liechtenstein,14.96,3.64,7.45,194.84,7241.72
+Pristina,"Kosovo (Disputed Territory)",5.27,0.51,1.53,81.62,471.75
+Jamestown,"Saint Helena",11.69,1.35,3.34,123,837.08
+Marigot,"Sint Maarten",8,2.02,3.05,283.33,2354.11
+Philipsburg,"Sint Maarten",8,2.02,3.05,283.33,2333.33
+Bareilly,India,4.61,0.43,0.81,49.13,307.04
+Natal,Brazil,5.75,1.42,2.34,76.88,502.55
+Naples,Italy,8.43,1.19,2.68,149.59,1408.51
+Chiba,Japan,5.4,1.45,1.69,245.23,2124.36
+Dnipro,Ukraine,3.81,0.53,1.22,83.21,388.55
+Coimbatore,India,3.68,0.45,0.8,29.02,368.45
+"Oklahoma City","United States",8,2.6,5.23,235.41,3167.94
+Morelia,Mexico,4.64,1.71,1.57,40.29,360.98
+Tangier,Morocco,5.19,0.45,1.15,41.22,388.41
+Setagaya,Japan,4.09,1.45,1.6,75.94,1712.39
+"Cebu City",Philippines,3.23,1.01,1.67,76.16,255.18
+Aguascalientes,Mexico,6.19,1.71,1.8,39.37,850.89
+Kermanshah,Iran,3.28,0.24,1.3,10.11,492.79
+Marrakech,Morocco,5.67,0.39,1.18,58.96,345.66
+Solapur,India,3.68,0.4,0.88,26.44,184.23
+Buffalo,"United States",10,2.88,2.73,177.81,4264.26
+Donetsk,Ukraine,3.54,0.5,1.12,45.91,228.93
+"Naucalpan de Juarez",Mexico,5.93,1.23,1.34,48.85,721.97
+Bridgeport,"United States",12,3.86,3.97,279.31,2890
+Hartford,"United States",10,3.49,3.49,103.15,5133.33
+"Fort Worth","United States",8.29,3.29,3.19,212.5,4479.5
+Merida,Mexico,6.7,1.76,1.53,63.55,549.45
+Hubli,India,2.46,0.4,0.95,13.48,368.45
+"Campo Grande",Brazil,5.75,1.66,1.98,54.68,252.83
+Cancun,Mexico,5.8,1.53,1.9,79.93,657.96
+"Ad Dammam","Saudi Arabia",6.65,1.09,2.04,108.25,1824.93
+Tucson,"United States",10.4,3.05,4.12,241.89,4063.33
+Krasnodar,Russia,6.3,0.72,1.71,132.02,632
+Chihuahua,Mexico,6.7,2.05,2.24,51.57,795.59
+Turin,Italy,9.48,1.62,3.11,190.84,1621.41
+"Taguig City",Philippines,2.69,1.44,2.5,144.61,394.73
+Klang,Malaysia,3.42,0.68,1.23,55.27,455.84
+Jalandhar,India,4.56,0.38,0.8,37.99,442.14
+Saltillo,Mexico,5.67,2.03,1.82,38.1,876.67
+Marseille,France,9.48,1.9,4.02,151.71,2596.01
+Malang,Indonesia,3.11,0.97,1.37,43.75,207.42
+Ipoh,Malaysia,3.42,0.7,1.25,42.45,936.41
+Hermosillo,Mexico,6.19,1.97,2.08,58.82,741.3
+Saratov,Russia,6.4,0.6,1.47,111.91,528
+Omaha,"United States",9,3.71,3.49,235.15,3772
+Denpasar,Indonesia,3.24,1.34,1.29,49.15,234.97
+Ilorin,Nigeria,5.4,0.96,1.37,18.01,84.43
+Akure,Nigeria,5.63,0.72,2.09,11.26,120.07
+Erbil,Iraq,10,0.78,1.62,98.88,641.26
+"El Paso","United States",7.5,2.52,3.04,193.29,4338.43
+Iguacu,Brazil,6.51,1.34,1.53,47.9,478.98
+"Pasig City",Philippines,3.41,1.17,1.44,98.4,436.59
+Honolulu,"United States",10,6.1,5.98,282.08,4091.19
+Bhubaneshwar,India,3.99,0.45,0.96,27.62,509.69
+Cheongju,"South Korea",3.38,4.61,2.67,135.98,1690.11
+Culiacan,Mexico,6.19,1.87,3.13,58.73,631.72
+"Sao Bernardo do Campo",Brazil,6.51,1.43,2,69.31,354.45
+Queretaro,Mexico,5.93,2.18,1.73,59.09,816.51
+Leeds,"United Kingdom",7.38,1.25,2.87,294.14,2780.58
+Valencia,Spain,8.43,1.07,2.21,141.51,1557.61
+"Joao Pessoa",Brazil,6.51,1.37,2.01,84.05,455.03
+Niigata,Japan,5.21,1.21,1.53,171.22,1712.39
+Hamamatsu,Japan,3.72,1.56,1.64,152.21,1675.17
+Frankfurt,Germany,9.05,1.8,2.87,341.76,3365.64
+Moradabad,India,5.22,0.59,0.98,16.38,337.75
+"San Luis Potosi",Mexico,7.74,2.18,1.98,52.86,911.05
+Albuquerque,"United States",8.3,3.1,3.65,129.67,5317.78
+Bahawalpur,Pakistan,3.35,0.35,0.82,40.23,106.17
+Kaduna,Nigeria,4.28,0.71,1.62,18.01,135.08
+Thiruvananthapuram,India,4.3,0.51,0.91,28.15,698.1
+Cucuta,Colombia,4.09,0.86,1.8,42.83,216.95
+Zaporizhzhia,Ukraine,4.08,0.49,1.1,84.77,346.75
+Tyumen,Russia,6.4,0.64,1.49,100.12,765.6
+Lviv,Ukraine,4.08,0.6,1.23,69.13,454.48
+Sarasota,"United States",9,3.37,3.87,146.65,2800
+Mississauga,Canada,8.89,2.13,2.99,125.29,3413.29
+"Cagayan de Oro",Philippines,2.2,0.63,1.58,49.34,239.23
+Birmingham,"United States",8.25,3.79,3.98,213.78,2929.9
+Torreon,Mexico,4.59,2.37,2.88,58.79,730.56
+Dayton,"United States",7.5,2.68,1.84,136.81,3333.33
+Fresno,"United States",9,2.67,2.83,280.82,4489.58
+Rochester,"United States",9,2.45,3.07,150.75,4275
+Osasco,Brazil,5.75,1.12,2.01,54.28,370.41
+Warangal,India,3.38,0.53,0.84,20.88,307.04
+Dasmarinas,Philippines,2.78,1.11,1.89,38.91,215.3
+Salem,India,4.91,0.48,0.87,18.42,276.34
+Latakia,Syria,4.04,0.75,1.48,13.21,41.25
+"General Santos",Philippines,2.6,0.9,1.29,76.25,269.13
+Hamilton,Canada,8.89,2.48,2.98,155.17,2816.37
+Lodz,Poland,5.63,0.89,2.24,193.54,918.92
+Sevilla,Spain,8.69,0.81,2.36,121,1565.82
+Tolyatti,Russia,5.36,0.73,1.56,102.68,570.67
+"Sao Jose dos Campos",Brazil,6.71,1.22,2.09,57.49,452.64
+Kochi,India,3.5,0.5,0.96,18.8,630.31
+Shizuoka,Japan,5.21,2.06,1.81,106.04,2481.73
+Karbala',Iraq,4.91,0.64,1.65,81.37,473.96
+Palermo,Italy,8.69,1.69,2.44,202.73,1334.74
+Tulsa,"United States",8,2.32,2.82,220.3,5036.78
+"As Sulaymaniyah",Iraq,7.3,0.8,2.42,77.8,513.43
+Mazatlan,Mexico,7.4,1.7,1.88,46.88,721.97
+"Acapulco de Juarez",Mexico,6.19,1.92,1.95,53.29,541.47
+Gorakhpur,India,3.07,0.47,0.98,31.01,307.04
+"Cape Coral","United States",10,2.86,3.26,231.09,3916.67
+Durango,Mexico,6.34,1.7,1.7,25.49,489.91
+"Ribeirao Preto",Brazil,4.79,1.48,2.04,80.03,508.74
+Bulawayo,Zimbabwe,6.75,1.11,2.53,80,350
+"Al Hufuf","Saudi Arabia",6.65,0.86,2.59,92.83,1409.99
+Concord,"United States",8,2.69,3.5,174.48,3200
+Guntur,India,4.91,0.43,0.84,25.38,675.5
+"Sialkot City",Pakistan,2.48,0.47,0.97,50.55,128.52
+Dusseldorf,Germany,9.48,2.33,2.72,217.42,3245.42
+Izhevsk,Russia,5.6,0.64,1.59,105.39,562.29
+Tripoli,Lebanon,8,0.42,2.48,158.33,833.33
+Wroclaw,Poland,5.63,0.96,2.35,208.17,1030.25
+Jeonju,"South Korea",4.46,1.59,3.42,115.23,1536.46
+"Petaling Jaya",Malaysia,3.42,0.74,1.41,43.82,917.35
+Cochabamba,Bolivia,7.23,1.2,1.29,18.1,503.29
+Rotterdam,Netherlands,8.69,1.88,2.47,225.33,3188.36
+Stuttgart,Germany,9.64,2.01,2.92,239.55,3411.99
+"Gold Coast",Australia,10.19,2.23,2.88,121.47,3758.45
+"Colorado Springs","United States",10,3.69,3.7,171.66,4563.77
+Charleston,"United States",8.5,2.89,3.63,237.34,4122.22
+Aracaju,Brazil,5.75,1.32,1.33,97.51,272.7
+"Makati City",Philippines,3.59,1.3,2.08,119.68,440.08
+Barnaul,Russia,5.6,0.69,1.6,100.07,480
+Benghazi,Libya,3.09,0.61,1.45,14.4,276.94
+Mangalore,India,2.46,0.47,0.89,24.5,307.04
+Glasgow,"United Kingdom",7.38,1.28,2.61,225.34,2977.24
+"Kryvyi Rih",Ukraine,3.94,0.57,1.31,84.76,244.77
+Springfield,"United States",8.5,2.63,2.98,190.71,2833.33
+Namangan,Uzbekistan,3,0.27,0.93,50,250
+Ulyanovsk,Russia,4.47,0.7,1.35,152.74,467.55
+Nanded,India,3.38,0.33,0.96,22.11,245.64
+Irkutsk,Russia,6.4,0.85,1.77,108.28,570
+"Las Pinas City",Philippines,2.47,1.47,2.57,143.54,448.55
+Vladivostok,Russia,5.6,0.76,2.21,151.93,776
+Khabarovsk,Russia,6.4,0.77,1.96,180.32,648
+Kuantan,Malaysia,3.42,1.79,1.95,49.38,1177.59
+Sanya,China,4.91,1.33,1.71,72.07,498.24
+"Grand Rapids","United States",9,2.77,3.73,118.29,5145.83
+Yaroslavl,Russia,8.8,0.63,1.55,127.38,533.33
+Gothenburg,Sweden,8.72,2.38,3.22,117.13,2782.04
+Bacolod,Philippines,2.69,1.13,1.64,45.7,209.32
+Cuttack,India,4.3,0.43,0.99,36.85,491.27
+Uberlandia,Brazil,6.13,1.47,2.27,54.46,348.06
+Leipzig,Germany,8.43,1.55,2.38,238.91,2231.31
+Durban,"South Africa",3.99,0.84,1.59,145.62,1079.61
+Brampton,Canada,7.41,1.92,2.24,238.29,3489.58
+Pereira,Colombia,5.24,1.1,2.14,57.17,216.62
+Kagoshima,Japan,6.54,1.36,1.78,94.93,2680.27
+Dortmund,Germany,8.43,2.21,3.68,297.52,2646.41
+"Mar del Plata",Argentina,4,0.94,1.23,62.22,365.67
+Albany,"United States",9,3.41,3.29,143.7,4825
+Knoxville,"United States",8,2.61,2.2,193.04,3950
+Bucaramanga,Colombia,3.78,0.53,1.14,48.88,234.4
+Reynosa,Mexico,5.67,1.55,1.8,38.1,541.47
+Essen,Germany,8.69,1.77,2.89,233.34,2928.53
+Genoa,Italy,8.43,2.49,3.31,151.61,1413.34
+Bakersfield,"United States",9,3.72,3.94,312.5,3366.02
+"Shah Alam",Malaysia,3.65,0.78,1.52,33.98,1127.81
+Cuiaba,Brazil,4.6,1.28,1.72,95.8,478.98
+Ogden,"United States",7,3.5,2,121.81,3182.67
+Malaga,Spain,8.43,1.03,2.45,128.41,1766.37
+Tomsk,Russia,6.4,0.56,1.59,119.99,635.43
+"Dehra Dun",India,5.22,0.44,0.88,58.34,358.14
+Bristol,"United Kingdom",7.38,1.3,2.62,261.88,2851.94
+Bremen,Germany,10.53,1.73,2.64,222.28,2300.6
+Akron,"United States",10.5,2.12,1.5,233.75,2786.77
+Irbid,Jordan,6.34,0.42,1.67,78.13,528.69
+"Baton Rouge","United States",8,3.1,2.65,134.22,3566.67
+Ensenada,Mexico,5.93,1.96,1.69,93.53,532.88
+Durgapur,India,4.91,0.34,0.9,28.66,399.16
+Columbia,"United States",7.25,2.88,3.35,162.37,5711.11
+"New Haven","United States",9,6.61,5.33,188.61,4162.33
+Orenburg,Russia,5.2,0.49,1.4,123.13,661.18
+Dresden,Germany,8.96,1.04,2.4,249.36,2579.58
+Nellore,India,3.07,0.43,0.77,44.67,593.62
+Surakarta,Indonesia,2.92,0.94,1.87,32.41,132.88
+Manchester,"United Kingdom",7.38,1.39,2.86,255.46,2799.28
+Amravati,India,4.18,0.3,0.88,26.44,327.51
+"Juiz de Fora",Brazil,4.79,1.21,1.69,84.62,268.23
+"Heroica Matamoros",Mexico,4.64,2.97,2.28,75.42,515.69
+Tabuk,"Saudi Arabia",6.65,0.62,3.13,209.39,2321.05
+"Muntinlupa City",Philippines,3.5,1.27,1.81,98.68,448.55
+Samarkand,Uzbekistan,3.5,0.27,1.49,32.5,253.33
+Hannover,Germany,8.43,2.36,2.76,231.32,2664.16
+Valledupar,Colombia,5.78,0.88,1.79,82.77,525.88
+Ajmer,India,3.07,0.55,1.03,12.28,368.45
+Poznan,Poland,5.63,0.94,2.23,130.41,970.75
+Antwerp,Belgium,9.48,2.07,3.29,208.83,2510.02
+Ryazan,Russia,5.6,0.67,1.79,120.86,544
+Ibague,Colombia,3.99,0.93,1.21,28.68,204.55
+Lyon,France,10.54,1.58,3.56,184.48,2714.26
+Kerman,Iran,4.13,1.04,1.96,15,461
+"Naberezhnyye Chelny",Russia,4.8,0.68,1.6,122.75,656
+Ardabil,Iran,5.95,0.65,1.13,31.69,389.24
+Agartala,India,4.3,0.49,0.93,12.28,307.04
+Himeji,Japan,5.21,1.37,1.81,148.9,2478.82
+Villavicencio,Colombia,3.78,1.1,1.26,33.62,335.68
+Sheffield,"United Kingdom",8.2,1.16,2.56,233.67,2265.71
+"Port Said",Egypt,3.26,0.35,1.12,26.53,149.23
+Arak,Iran,3,0.73,0.87,33.01,245.08
+Mesa,"United States",7.5,2.37,3.66,177.33,4644.44
+Liverpool,"United Kingdom",7.38,1.18,2.44,214.48,2263.4
+Meknes,Morocco,5.67,0.63,1.16,25.58,276.26
+Nuremberg,Germany,8.43,1.6,2.69,236.07,2992.03
+Surrey,Canada,7.41,1.98,2.95,168.08,3800.35
+Utsunomiya,Japan,6.33,1.71,0.97,223.36,2680.27
+Suez,Egypt,3.26,0.61,1.16,29.55,196.71
+Ujjain,India,4.91,0.39,0.99,14.74,491.27
+"Santa Marta",Colombia,4.2,0.6,1.24,87.14,219.89
+Joinvile,Brazil,5.75,1.29,1.92,79.22,313.25
+"Lapu-Lapu City",Philippines,2.78,1.13,1.48,76.16,311
+Jammu,India,3.07,0.4,0.88,22.45,327.51
+Ichikawa,Japan,5.4,1.12,1.69,316.42,1678.89
+Niteroi,Brazil,5.75,1.42,1.73,66,661
+Kirov,Russia,3.89,0.66,1.41,95.24,453.33
+Oujda-Angad,Morocco,5.19,0.5,1.17,51.95,298.69
+Mykolaiv,Ukraine,2.99,0.38,1.09,87.18,362.62
+"Johor Bahru",Malaysia,3.42,0.7,1.39,45.73,746.39
+Celaya,Mexico,6.19,1.91,1.71,55.44,379.75
+Duisburg,Germany,9.48,1.13,2.72,386.53,2123.3
+Matsudo,Japan,5.21,1.45,1.69,245.23,2345.23
+"Kota Bharu",Malaysia,3.42,0.65,1.22,46.35,307.69
+Toulouse,France,9.48,1.75,3.12,191.01,2773.46
+Belgaum,India,3.07,0.44,0.78,17.74,982.54
+`Ajman,"United Arab Emirates",6.81,1.03,1.95,208.12,3630.09
+Edinburgh,"United Kingdom",7.38,1.31,2.46,205.54,2761.09
+Tula,Russia,6.8,0.7,1.7,128.05,620.08
+Wichita,"United States",7.5,2.7,2.17,189.57,5033.33
+Toledo,"United States",9.75,2.43,3.49,276.5,3266.67
+Cheboksary,Russia,5.6,0.6,1.6,98.87,444.8
+Greenville,"United States",8,2.77,3.06,166.81,4675
+Florianopolis,Brazil,6.71,1.43,1.92,81.2,415.52
+Kaliningrad,Russia,6.4,0.86,1.65,117.42,591.67
+Sylhet,Bangladesh,4.88,0.47,1.1,24.51,204.84
+Oita,Japan,4.99,1.43,1.6,133.25,1861.3
+Leicester,"United Kingdom",7.38,1.13,2.65,225.75,2639.09
+"Des Moines","United States",8,2.4,2.12,161.45,3232
+"Mandaluyong City",Philippines,2.69,0.99,1.52,177.93,283.48
+Piura,Peru,4.56,1.27,1.2,55.41,361.14
+"Angeles City",Philippines,4.05,1.19,1.81,138.15,306.28
+Buraydah,"Saudi Arabia",6.25,1.51,1.84,96.86,1817.91
+Gdansk,Poland,5.63,0.94,2.5,213.58,1136.51
+Murcia,Spain,8.43,1.07,1.94,129.19,1342.21
+Kanazawa,Japan,5.21,1.49,1.64,120.61,2769.61
+"Long Beach","United States",9.85,4.62,4.4,159.71,4967.88
+"Port St. Lucie","United States",9,3.02,4.14,172.92,5100
+"Tel Aviv-Yafo",Israel,16.15,2.72,3.99,268.54,3148.67
+Udaipur,India,2.92,0.42,0.92,29.05,337.75
+Tanta,Egypt,2.85,0.33,1.08,20.35,101.74
+"Kota Kinabalu",Malaysia,4.1,1.01,1.54,37.14,531.81
+Madison,"United States",9,3.9,3.13,117.83,3535.5
+Kursk,Russia,6.8,0.64,1.58,116.73,453.33
+Mariupol,Ukraine,3.81,0.53,1.22,83.21,326.36
+"San Nicolas de los Garza",Mexico,5.67,1.55,1.8,41.26,825.1
+Reno,"United States",9,3.57,2.75,155.07,2456.5
+Hsinchu,Taiwan,4.25,2.13,2.29,63.19,2124.85
+Barcelona,Venezuela,7.5,1.5,2,34.78,200
+Constantine,Algeria,4.34,0.15,1.31,71.43,269.43
+Harrisburg,"United States",7,4.08,2,148.18,2850
+"Sao Jose do Rio Preto",Brazil,4.5,0.77,2.22,108.57,258.65
+Zurich,Switzerland,16.03,3.17,6.04,250.12,6782.99
+"Little Rock","United States",10,3.12,2.52,224.22,4110.67
+Manizales,Colombia,4.98,0.65,1.13,44.09,256.27
+Santos,Brazil,5.75,1.98,2.11,65.97,387.02
+Yogyakarta,Indonesia,2.92,0.98,1.34,45.37,156.11
+Kashiwa,Japan,6.33,1.63,1.7,157.18,3328
+"Caxias do Sul",Brazil,7.66,0.95,2.39,60.67,538.7
+Oakland,"United States",10.25,4.67,4.82,299.18,6111.11
+Stavropol,Russia,4.8,0.7,1.7,120.73,533.33
+Cusco,Peru,5.74,1.82,2.09,60.83,435.1
+Zanjan,Iran,5.5,0.44,2,24.6,507.5
+Veracruz,Mexico,6.7,1.62,1.5,77.43,567.26
+Kenitra,Morocco,5.67,0.63,1.16,25.58,326.31
+Durham,"United States",8,3.03,2.14,135.87,6100
+Agadir,Morocco,5.25,0.58,1.21,42.58,341.74
+Laval,Canada,11.12,2.12,2.34,79.52,2734.02
+"Mogi das Cruzes",Brazil,4.79,1.05,1.83,68.7,344.87
+Tver,Russia,4.8,0.66,1.66,87.28,496
+Seremban,Malaysia,3.65,0.78,1.39,30.31,450.9
+Magnitogorsk,Russia,5.6,0.61,1.25,122.75,738.67
+Chattanooga,"United States",9,3.08,3.09,221.81,4196.1
+Indio,"United States",9,3.22,2.15,140.05,2418
+Mataram,Indonesia,2.43,1.02,1.34,53.79,162.05
+Toyama,Japan,4.47,1.38,1.81,106.04,1563.49
+Spokane,"United States",10,3.14,2.8,178.08,3882.17
+Sochi,Russia,7.2,0.83,1.71,155.5,948
+Syracuse,"United States",8,3.32,2.4,133.75,3612.5
+Szczecin,Poland,5.63,0.89,2.07,157.01,962.55
+Bryansk,Russia,6.4,0.57,1.41,64,456
+Asyut,Egypt,4.07,0.19,0.94,21.37,108.53
+Maracay,Venezuela,6.88,2.23,1.27,10,250
+Qazvin,Iran,5.66,0.43,1.83,33.25,569.58
+Jundiai,Brazil,6.71,1.73,1.81,121.34,636.86
+Carapicuiba,Brazil,5.94,1.15,1.95,73.44,306.55
+Arlington,"United States",8,4.55,4.23,148.98,5104.4
+Stockton,"United States",10,3.09,3.47,202.49,3090.02
+Lancaster,"United States",8.95,2.4,2.93,180.24,3839.92
+"Nha Trang",Vietnam,4.49,0.47,1.24,64.93,301.89
+Belgorod,Russia,5.6,0.72,1.49,76.41,488
+Piracicaba,Brazil,6.13,1.59,1.93,98.92,435.04
+Bologna,Italy,8.43,2.01,3.53,229.79,1678.37
+Boise,"United States",8.55,3.04,3.49,200.74,3833.33
+Florence,Italy,9.75,1.86,3.66,227.08,1491.05
+Christchurch,"New Zealand",8.34,1.51,3.89,111.66,3327.32
+Tetouan,Morocco,4.72,0.32,1.11,31.16,280.56
+Aqtobe,Kazakhstan,4.62,0.33,0.98,43.13,281.63
+Brno,"Czech Republic",6.92,1.19,1.99,236.71,1436.06
+Scranton,"United States",8,2.41,2.64,185.51,2178
+Oxnard,"United States",8.25,1.31,2.73,218.64,4389
+Modesto,"United States",8,4.07,4.5,296.31,2200
+"Tarlac City",Philippines,4.03,1.52,1.93,179.42,218.89
+Aurora,"United States",8.5,2.55,1.5,156.84,4242
+London,Canada,9.63,2.21,2.69,129.73,3446.3
+"Novi Sad",Serbia,5.39,0.58,1.88,145.62,613.42
+Kissimmee,"United States",9,3.17,3.07,160.06,2937
+Youngstown,"United States",6,1.8,1.29,332.5,2243
+"Manukau City","New Zealand",9.14,1.21,4.23,134.19,3420.8
+Vinnytsia,Ukraine,3.54,0.58,1.36,78.73,315.91
+Butuan,Philippines,2.65,0.95,1.6,59.21,124.7
+Ambon,Indonesia,3.73,1.04,1.52,97.23,259.28
+"Baguio City",Philippines,2.69,1.16,1.62,92.24,284.08
+Keelung,Taiwan,4.91,1.84,2.43,87.5,1047.36
+Plovdiv,Bulgaria,6.01,0.79,2.39,81.06,686.06
+Bochum,Germany,8.32,1.4,2.47,214.76,1685.99
+Bauru,Brazil,5.08,1.02,1.37,102.02,296.97
+Coventry,"United Kingdom",7.38,1.03,2.21,312.04,3505.5
+Pokhara,Nepal,4.81,0.71,1.29,17.68,205.03
+Vitoria,Brazil,6.71,1.44,1.83,62.64,517.3
+Surgut,Russia,4.2,0.77,1.51,175.02,1253.33
+Hrodna,Belarus,4.35,0.53,1.44,59.37,408.57
+Bilbao,Spain,8.43,1.54,2.86,132.04,1949.29
+Manisa,Turkey,3.35,0.33,1.37,38.24,411.44
+Wuppertal,Germany,8.43,1.58,1.96,201.77,3628.4
+Batangas,Philippines,3.59,1.25,1.82,116.03,215.3
+Pavlodar,Kazakhstan,6.59,0.23,0.92,59.32,228.49
+Van,Turkey,3.09,0.45,1.19,31.3,281.74
+Corrientes,Argentina,10,1.4,2,84.9,589
+Neiva,Colombia,5.24,0.28,1.81,43.22,272.4
+Arkhangelsk,Russia,7.6,1.07,1.68,141.81,480
+Anaheim,"United States",9,2.54,4.4,153.19,4109.33
+Varna,Bulgaria,5.34,0.81,2.25,115.7,738.7
+Bydgoszcz,Poland,5.63,0.97,3.56,292.96,829.38
+Cariacica,Brazil,4.6,1.15,1.82,95.8,377.44
+Semey,Kazakhstan,3.4,0.23,0.77,30.11,191.3
+Tapachula,Mexico,7.86,1.38,1.86,73.49,360.98
+Pensacola,"United States",10,2.81,4.4,340.06,5000
+Utrecht,Netherlands,9.56,1.98,2.81,257.57,3299.56
+Nice,France,11.41,1.47,3.84,193.98,2457.4
+Antofagasta,Chile,5.66,1.05,2.8,178.27,962.08
+Caruaru,Brazil,5.27,0.96,1.61,57.48,383.19
+Victorville,"United States",6.5,2.44,3.84,325.01,3386
+Sumqayit,Azerbaijan,4.41,0.3,1.27,50.18,264.71
+Greensboro,"United States",7,3.64,2.5,162.37,3463.69
+Lublin,Poland,5.63,0.7,2.23,165.27,864.03
+Brest,Belarus,4.16,0.63,1.42,55.74,421.37
+"East London","South Africa",3.56,0.77,2.02,149.22,1106.32
+Kaluga,Russia,4.8,0.78,1.74,87.28,533.33
+Randburg,"South Africa",3.99,0.74,1.7,92.43,1634.77
+Alicante,Spain,8.43,1.34,2.11,136.92,1493.77
+Cuernavaca,Mexico,5.67,1.92,1.48,58.53,687.59
+Belfast,"United Kingdom",7.38,1.51,2.42,138.82,2333.46
+Bielefeld,Germany,9.48,2.53,2.64,304.66,2502.64
+Cuenca,Ecuador,7.5,2.05,2.02,35.88,474.38
+Bonn,Germany,8.43,1.19,2.53,284.99,2284.26
+"Vina del Mar",Chile,5.66,0.76,2.21,78.13,595.36
+Salamanca,Mexico,5.93,0.83,1.02,73.06,730.56
+Blida,Algeria,2.89,0.14,1.29,39.61,226.03
+"Ciudad Obregon",Mexico,5.16,1.5,2.81,46.41,550.07
+Thessaloniki,Greece,7.38,1.1,3.46,247.74,843.08
+Flint,"United States",7,2.36,2.66,126.3,1848
+Islip,"United States",9.38,3.85,3.5,144.72,3000
+Dahuk,Iraq,5.91,1.39,1.85,96.09,700
+Nakuru,Kenya,6.52,0.43,1.34,29.9,434.84
+Izmir,Turkey,3.76,0.37,1.55,62.01,308.3
+Markham,Canada,8.89,1.85,2.59,122.27,3186.84
+Patiala,India,2.46,0.44,0.88,45.03,245.64
+"Vung Tau",Vietnam,3.77,1.85,1.8,53.62,611.93
+Bari,Italy,8.43,1.52,3.21,176.18,1490.3
+Kuching,Malaysia,3.87,0.89,1.3,46.22,442.55
+Jackson,"United States",7,2.34,1.6,265.67,2405
+Uberaba,Brazil,4.69,1.13,1.41,73.44,309.74
+Cluj-Napoca,Romania,5.35,1.13,2.7,147.6,873.53
+Lansing,"United States",8,3.48,3.03,156.56,2704
+Mekele,Ethiopia,5,1.33,1.87,225,269.43
+Lexington,"United States",7,2.74,3.08,182.5,2883.33
+Timisoara,Romania,5.35,0.81,2.67,138.3,799.6
+Henderson,"United States",8,3.12,3.84,135.18,4232.8
+"Ann Arbor","United States",8.32,2.57,2.67,158.94,3710.25
+Cordoba,Spain,7.38,1.05,2.12,130.61,1290.84
+Cherepovets,Russia,6,0.64,1.38,110.72,560
+Huntsville,"United States",8,2.76,3.11,169.21,5244.93
+Poltava,Ukraine,3.26,0.43,0.91,90.71,360.35
+Nantes,France,10.54,1.38,2.76,175.57,2272.58
+Munster,Germany,8.43,2.37,2.45,267.98,1882.69
+Oskemen,Kazakhstan,3.19,0.37,1.08,23.38,354.25
+Vologda,Russia,7.2,0.72,1.63,138,480
+Asheville,"United States",7.5,3.67,4.16,261.69,3480
+"Playa del Carmen",Mexico,5.85,1.84,1.73,91.24,670.4
+Mannheim,Germany,8.43,1.58,2.09,274.63,3020.74
+"Fort Collins","United States",8,4.03,3.39,152.26,4277.78
+"Port Elizabeth","South Africa",4.85,0.92,1.82,104.56,1150.2
+Karlsruhe,Germany,9.45,1.19,2.7,237.95,2893.81
+Catania,Italy,8.43,1.33,2.47,177.37,1106.43
+"Ponta Grossa",Brazil,6.51,1.15,1.15,153.27,383.19
+Yakutsk,Russia,8,0.88,2.32,170.06,986.67
+"St. Catharines",Canada,8.15,1.87,2.41,146.61,4508.66
+Vaughan,Canada,10.01,2.13,2.51,161.96,3335.17
+Hisar,India,3.68,0.46,0.85,56.8,245.64
+"Puerto Princesa",Philippines,2.69,0.78,1.4,104.66,220.69
+Curepipe,Mauritius,3.67,0.42,1.92,46.01,532.65
+Podolsk,Russia,5.6,0.57,1.54,120.86,598.55
+"Vila Nova de Gaia",Portugal,6.85,0.98,2.31,120.86,1066.92
+Lakeland,"United States",8,2.85,3,156.41,3107
+Armenia,Colombia,5.35,0.93,1.21,33.57,293.72
+Mardan,Pakistan,4.47,0.43,0.89,22.35,158.18
+Bialystok,Poland,5.63,0.95,2.28,208.16,844.2
+Popayan,Colombia,7.34,0.73,1.15,27.24,293.72
+"Ciudad General Escobedo",Mexico,5.67,1.7,1.8,51.57,618.83
+Murmansk,Russia,5.6,0.96,1.79,229.47,848
+Valladolid,Spain,7.38,1.08,1.78,139.01,1656.14
+Tampico,Mexico,5.67,2.29,1.44,25.78,584.45
+"Bahia Blanca",Argentina,4,0.73,1.62,30.91,413.01
+Bradford,"United Kingdom",7.38,1.17,2.39,155.58,2091
+Petropolis,Brazil,6.22,1.25,1.32,62.45,352.5
+Augsburg,Germany,9.48,3.16,2.72,239.46,2271.06
+Vigo,Spain,7.38,1.06,1.95,113.34,1383.92
+Kocaeli,Turkey,3.03,0.45,1.31,53.18,371.3
+Montpellier,France,10.54,1.32,3.64,144.86,2993.62
+Comilla,Bangladesh,4.39,0.5,0.98,41.46,97.54
+Chernihiv,Ukraine,2.99,0.77,1.75,94.12,387.77
+Valparaiso,Chile,6.23,0.76,2.81,98.97,502.55
+Aizawl,India,5.53,0.51,0.85,12.28,368.45
+Ismailia,Egypt,4.07,0.27,1.16,21.37,203.49
+Brasov,Romania,5.46,1.02,2.97,125.52,707.23
+Iasi,Romania,5.57,0.81,2.37,114.73,687.3
+Nottingham,"United Kingdom",7.38,1.17,2.39,138.44,2432.18
+Tambov,Russia,6.4,0.62,1.58,96.9,497.74
+Graz,Austria,8.43,2.17,3.4,249.88,2324.49
+Kherson,Ukraine,3.81,0.52,1.22,83.21,318.56
+Batna,Algeria,3.25,0.17,1.3,51.84,238.69
+Pendik,Turkey,4.43,0.54,1.18,95.59,536.66
+Trenton,"United States",8.5,4.04,3.49,127.5,2102
+Ipswich,"United Kingdom",8,1.38,2.8,100.38,2139.59
+Kaunas,Lithuania,6.32,1.23,2.04,174.49,1146.11
+Lincoln,"United States",8,2.4,2.96,98.32,3133.33
+Adana,Turkey,3.22,0.39,1.1,42.11,300.53
+"San Lorenzo",Paraguay,4.16,0.72,1.77,53.69,249.39
+Strasbourg,France,10.54,1.32,3.11,187.26,2699.09
+Anchorage,"United States",9.5,5.04,4.63,253.44,4312.5
+Setif,Algeria,2.17,0.53,1.18,36.07,226.63
+Atyrau,Kazakhstan,3.83,0.36,0.84,39.39,543.24
+Irvine,"United States",8,3.37,3.22,157.63,6306.19
+Plano,"United States",8,2.79,3.56,238.65,5635
+Bolton,"United Kingdom",6.77,1.15,2.49,191.14,2246.46
+"Punto Fijo",Venezuela,8.5,1.53,2.75,22,200
+Ostrava,"Czech Republic",7.01,1.29,1.85,257.47,1327.12
+"San Cristobal",Venezuela,8.18,2.09,1.72,24.61,200
+Haifa,Israel,16.15,2.6,4.03,213.16,2664.87
+Constanta,Romania,4.5,0.93,2.77,134.3,641.06
+Bhatinda,India,7.37,0.47,0.84,40.53,307.04
+Temuco,Chile,4.52,0.94,2.51,101.87,792.3
+Newark,"United States",9.28,2.57,3.49,288.75,2444
+Chuncheon,"South Korea",5.38,2.43,2.38,65.62,2381.51
+Wiesbaden,Germany,9.48,1.38,2.64,176.5,2867.07
+Osh,Kyrgyzstan,4,0.36,1.61,35.52,236.83
+Petrozavodsk,Russia,4.8,0.96,1.68,106.56,762.67
+Bukhara,Uzbekistan,2.94,0.29,1.29,43.04,241.82
+"South Bend","United States",8,3.67,2.17,246.75,2687
+Cherkasy,Ukraine,3.26,0.53,1.39,113.91,299.31
+Sfax,Tunisia,4.65,0.11,0.88,24.52,244.73
+Katowice,Poland,5.63,0.96,2.17,228.13,1042.36
+Southampton,"United Kingdom",7.37,1.17,2.13,283.15,2707.86
+Savannah,"United States",8,2.47,2.34,147.09,4341.67
+Gatineau,Canada,8.52,2.43,2.57,88.18,2352.22
+Windsor,Canada,8.89,1.68,2.55,149.29,2979.01
+Khmelnytskyi,Ukraine,2.99,0.47,0.81,68.27,341.53
+"Dire Dawa",Ethiopia,3.2,0.85,1.9,95,180
+Malmo,Sweden,8.23,2.44,3.14,76.35,2757.26
+Eugene,"United States",9,3.55,2.82,187.2,3050
+Craiova,Romania,5.35,0.59,2.36,194.9,643.36
+Plymouth,"United Kingdom",6.77,1.21,2.75,258.8,1845
+Espoo,Finland,9.48,3.93,3.45,110.73,3024.95
+Gijon,Spain,8.96,1.08,2.19,133.83,1794.88
+Novorossiysk,Russia,6.3,0.72,1.71,132.02,650.67
+Sumy,Ukraine,3.62,0.48,1.01,56.43,258.37
+Lubbock,"United States",9,3.16,3.29,166.53,4204.17
+Zhytomyr,Ukraine,2.99,0.53,1.47,78.66,231.17
+Chernivtsi,Ukraine,2.72,0.49,1.56,98.13,389.82
+Imphal,India,6.14,0.49,1.62,18.42,184.23
+Salem,"United States",9,3.21,1.69,215.14,4954.83
+Anantapur,India,6.14,0.64,0.8,13.48,429.86
+Westminster,"United Kingdom",6.75,1.08,3.13,267.9,4305
+"Winter Haven","United States",8.5,2.36,2.03,158.05,2500
+Lafayette,"United States",7.75,2.45,2.76,128.62,2624
+Barueri,Brazil,5.46,1.73,1.99,69.27,670.58
+Gent,Belgium,8.93,1.69,2.6,198.46,2192.42
+Damanhur,Egypt,4.07,0.54,0.98,47.48,81.4
+Wollongong,Australia,7.92,1.63,3.44,113.26,3307.29
+Bordeaux,France,9.48,2.36,3.24,161.68,2484.38
+Laredo,"United States",7.5,3.58,2.7,197.5,2865
+Olongapo,Philippines,2.69,1.13,1.44,98.4,358.84
+Venice,Italy,9.48,2.56,3.06,283.03,1633.31
+Chandler,"United States",6,2.94,3.04,178.61,3817.94
+Nonthaburi,Thailand,4.32,1.21,1.73,68.97,979.21
+"Jersey City","United States",10,4.5,4.17,88.24,6100
+"Ciudad Benito Juarez",Mexico,5.16,1.57,1.79,103.14,1340.79
+Derby,"United Kingdom",7.38,1.28,2.58,282.23,2885.38
+Verona,Italy,8.43,2.24,2.86,172.09,1602.65
+Monchengladbach,Germany,7.9,1.94,2.73,269.06,2353.01
+Scottsdale,"United States",8,3.09,2.49,132.38,7300
+"Kingston upon Hull","United Kingdom",7.13,1.26,2.32,186.14,1824.5
+Bergen,Norway,12.33,3.21,3.9,268.94,3218.31
+Killeen,"United States",6.75,1.1,2.97,188.45,2948
+Misratah,Libya,2.26,0.1,1.05,18.26,229.77
+Tallahassee,"United States",8.59,3.26,4.14,219.97,2936
+Peoria,"United States",7.5,2.25,2.85,147.97,2877
+Wolverhampton,"United Kingdom",7.38,1.26,3.26,195.26,1906.5
+Montgomery,"United States",8,1.84,1.9,183.33,2861
+Chiayi,Taiwan,4.91,1.96,3.5,35.54,1112.82
+Vitoria-Gasteiz,Spain,8.43,0.98,2.33,129.49,1830.88
+"Rishon LeZiyyon",Israel,14.68,2.56,3.69,265.62,2537.5
+Taganrog,Russia,6,0.57,1.43,121.91,773.33
+Aachen,Germany,8.43,1.09,2.58,244.06,2824.1
+"A Coruna",Spain,7.38,0.77,1.9,156.31,1501.59
+Galati,Romania,4.28,0.66,2.41,112.19,653.08
+Sonipat,India,3.38,0.33,1.33,23.2,245.64
+Stoke-on-Trent,"United Kingdom",7.38,1.14,2.07,270.6,2362.06
+Braunschweig,Germany,9.48,2.57,2.88,275.78,3277.67
+"Al Minya",Egypt,3.46,0.35,1.16,10.58,111.92
+Babol,Iran,3.28,0.5,0.95,31.69,582.64
+Gdynia,Poland,5.83,0.75,2.63,199.93,955.03
+Rivne,Ukraine,2.72,0.49,1.2,98.13,419.28
+Portsmouth,"United Kingdom",6.15,1.13,2.2,145.96,3105.63
+Kiel,Germany,8.42,1.92,2.41,224.8,2476.3
+Saskatoon,Canada,8.89,1.91,3.19,210.42,3239.88
+Khimki,Russia,6,0.75,1.73,166.08,754.66
+Barnsley,"United Kingdom",7.38,1.16,2.14,233.67,1722
+Chemnitz,Germany,8.43,1.5,2.05,236.07,2125.05
+Biratnagar,Nepal,7.3,0.36,1.2,19.22,192.22
+Porto,Portugal,7.38,1.27,2.2,121.38,1035.69
+Fremont,"United States",10,4.31,4.12,247.78,6233.33
+"Petah Tiqwa",Israel,16.15,2.34,3.8,170.62,2446.63
+Norfolk,"United States",8,3.44,3,148.98,5289.25
+Limassol,Cyprus,7.38,1.7,3.12,209.02,1573.19
+Ipatinga,Brazil,5.36,1.09,1.13,70.83,344.87
+Aarhus,Denmark,12.47,2.79,3.82,214.72,3458.74
+Kennewick,"United States",8.5,3.36,2.79,114.67,2867
+Narayanganj,Bangladesh,3.9,0.32,0.82,29.26,78.04
+Lille,France,9.48,1.69,2.74,153.55,2678.23
+Irving,"United States",7.5,2.72,2.99,162.23,6014.5
+Garland,"United States",7,2.65,3.4,179.57,3352
+Halle,Germany,8.43,1.32,2.67,139.4,2107.49
+Kosice,Slovakia,7.27,0.95,2.36,256.01,958.79
+Ivano-Frankivsk,Ukraine,3.3,0.47,1.07,68.27,380.75
+Magdeburg,Germany,8.43,1.19,2.25,308.3,1844.05
+"Atlantic City","United States",9.5,3.76,6,133.33,2000
+Centurion,"South Africa",4.13,0.84,1.7,101.09,1577.74
+Miri,Malaysia,3.76,0.73,1.66,42.01,721.75
+Granada,Spain,8.43,1.2,2.13,113.76,1863.81
+Puducherry,India,3.56,0.43,0.77,25.1,537.33
+Elche,Spain,7.38,1.05,1.79,136.92,1491.05
+Eindhoven,Netherlands,10.54,2,2.29,217.37,3566.2
+Nashua,"United States",10.5,3.3,3.59,174.48,3864
